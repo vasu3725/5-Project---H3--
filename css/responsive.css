@@ -350,6 +350,21 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
+.mission-cnt-img img {
+    width: 93%;
+}
+
+.mission-cnt-icon-bg img {
+    width: 150px;
+}
+
+.mission-cnt-icon-img {
+    position: absolute;
+    z-index: 1;
+    bottom: -10px;
+    left: 0;
+}
+
 /* ***************************************************************** */
 
 .franchise
@@ -676,6 +691,44 @@
 }
 
 /* *********************************************************************** */
+
+.btn-wrap-prev button
+{
+    width: 30px;
+    height: 30px;
+    
+    position: absolute;
+    top: 120px;
+    left: -5px;
+    z-index: 1;
+}
+
+.btn-wrap-next button
+{
+    width: 30px;
+    height: 30px;
+
+    position: absolute;
+    top: 120px;
+    right: -8px;
+    z-index: 1;
+}
+
+.mission-cnt-img img {
+    width: 93%;
+}
+
+.mission-cnt-icon-bg img {
+    width: 150px;
+}
+
+.mission-cnt-icon-img {
+    position: absolute;
+    z-index: 1;
+    bottom: -10px;
+    left: 0;
+}
+
 .business-services-img,
 .business-services-img-right
 {
@@ -839,10 +892,11 @@
 
 .tfood-img-txt h6
 {
-    font-size: 10px;
+    width: 200px;
+    font-size: 13px;
     color: #fff;
     font-family: 'Nunito-Bold';
-    margin-bottom: 10px;
+    margin-bottom: 7px;
 }
 
 .tfood-img-txt p
@@ -1157,6 +1211,10 @@
 } */
 
 /* ************************************************************** */
+
+.mission-cnt-icon-bg img {
+    width: 165px;
+}
 
 .review-txt p
 {
@@ -2399,6 +2457,28 @@
     margin-top: -100px;
 }
 
+.btn-wrap-prev button
+{
+    width: 30px;
+    height: 30px;
+    
+    position: absolute;
+    top: 80px;
+    left: -5px;
+    z-index: 1;
+}
+
+.btn-wrap-next button
+{
+    width: 30px;
+    height: 30px;
+
+    position: absolute;
+    top: 80px;
+    right: -8px;
+    z-index: 1;
+}
+
 }
 
 
@@ -2895,6 +2975,29 @@
 {
     margin-top: 0px;
     padding-top: 110px;
+}
+
+
+.btn-wrap-prev button
+{
+    width: 30px;
+    height: 30px;
+    
+    position: absolute;
+    top: 60px;
+    left: -5px;
+    z-index: 1;
+}
+
+.btn-wrap-next button
+{
+    width: 30px;
+    height: 30px;
+
+    position: absolute;
+    top: 60px;
+    right: -8px;
+    z-index: 1;
 }
 
 /* ************************************************************************** */
@@ -4268,7 +4371,7 @@
 .new-customer-offer
 {
     text-align: center;
-    /* margin-top: -40px; */
+    margin-top: -15px;
 }
 
 .new-customer-offer h2
@@ -4750,6 +4853,35 @@
     width: 100%;
     margin-top: -100px;
 }
+
+.beverages-slider-arrow img
+{
+    width: 10px;
+    margin: 0px 10px;
+}
+
+.btn-wrap-prev button
+{
+    width: 20px;
+    height: 20px;
+    
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    z-index: 1;
+}
+
+.btn-wrap-next button
+{
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    top: 50px;
+    right: -3px;
+    z-index: 1;
+}
+
 
 }
 
