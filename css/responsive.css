@@ -2387,6 +2387,18 @@
     margin-bottom: 30px;
 }
 
+.footer-before-about img
+{
+    width: 100%;
+    margin-top: -100px;
+}
+
+.footer-before-service img
+{
+    width: 100%;
+    margin-top: -100px;
+}
+
 }
 
 
@@ -2515,7 +2527,7 @@
     position: absolute;
     z-index: 1;
     bottom: 30px;
-    left: 100px;
+    left: 35px;
 }
 
 .treditional-food
@@ -2559,7 +2571,7 @@
 
 .solution-card
 {
-    height: 320px;
+    height: 350px;
 }
 
 .solution-btn
@@ -2567,7 +2579,7 @@
     position: absolute;
     z-index: 1;
     bottom: 10px;
-    left: 38%;
+    left: 36%;
     font-size: 15px;
 }
 
@@ -3149,7 +3161,7 @@
     font-family: 'Nunito-Bold';
     margin-top: 20px;
     margin-bottom: 10px;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .food-five-star
@@ -3175,15 +3187,15 @@
 {
     color: #000;
     font-family: 'Nunito-bold';
-    margin-left: 15px;
-    margin-right: 25px;
-    font-size: 12px;
+    margin-left: 10px;
+    margin-right: 5px;
+    font-size: 10px;
 }
 
 .bevrages-food-price p
 {
     color: #9F9F9F;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 
@@ -3196,7 +3208,7 @@
 
 .tfood-img-txt h6
 {
-    font-size: 10px;
+    font-size: 13px;
     color: #fff;
     font-family: 'Nunito-Bold';
     margin-bottom: 10px;
@@ -3205,7 +3217,7 @@
 .tfood-img-txt p
 {
     color: #fff;
-    width: 170px;
+    width: 100%;
     font-size: 8px;
     margin-bottom: 10px;
 }
@@ -3478,10 +3490,10 @@
     font-size: 12px;
 }
 
-.new-customer-offer
+/* .new-customer-offer
 {
     padding-top: 35px;
-}
+} */
 
 .fresh-beverages-heading h3
 {
@@ -3518,11 +3530,11 @@
 
 .offer-product-img-beverages img 
 {
-    width: 600px;
+    width: 520px;
     position: absolute;
     z-index: 1;
-    bottom: 20px;
-    left: 150px;
+    bottom: 15px;
+    left: 40px;
 }
 
 .offer-product-bg-beverages
@@ -3538,6 +3550,18 @@
 .solution-card p
 {
     font-size: 14px;
+}
+
+.footer-before-about img
+{
+    width: 100%;
+    margin-top: -100px;
+}
+
+.footer-before-service img
+{
+    width: 100%;
+    margin-top: -100px;
 }
 
 }
@@ -4238,13 +4262,13 @@
     background-size: contain;
     background-repeat: no-repeat;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 .new-customer-offer
 {
     text-align: center;
-    margin-top: -40px;
+    /* margin-top: -40px; */
 }
 
 .new-customer-offer h2
@@ -4653,10 +4677,10 @@
     font-size: 10px;
 }
 
-.fresh-beverages-heading
+/* .fresh-beverages-heading
 {
     margin-top: -60px;
-}
+} */
 
 .fresh-beverages-heading h3
 {
@@ -4719,6 +4743,12 @@
 {
     max-width: 60px;
     margin-top: 75px;
+}
+
+.footer-before-about img
+{
+    width: 100%;
+    margin-top: -100px;
 }
 
 }

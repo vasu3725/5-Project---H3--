@@ -300,10 +300,10 @@
                     <div class="slider test-food-slider">
                         <div class="test-food-img">
                             <img src="images/p2 test food slider img 1.png" alt="">
-                            <div class="test-food-img-date">
+                            <!-- <div class="test-food-img-date">
                                 <h5>15</h5>
                                 <h6>June</h6>
-                            </div>
+                            </div> -->
                             <div class="tfood-img-txt">
                                 <h6>Tender fried baby squid with a salt, pepper</h6>
                                 <p>Nisl quam nestibulum ac quam nec odio elementu aucan ligula. varius natoque pena tibus et ma urient monte nascete ridiculus.</p>
@@ -314,10 +314,10 @@
                         </div>
                         <div class="test-food-img">
                             <img src="images/p2 test food slider img 2.png" alt="">
-                            <div class="test-food-img-date">
+                            <!-- <div class="test-food-img-date">
                                 <h5>16</h5>
                                 <h6>June</h6>
-                            </div>
+                            </div> -->
                             <div class="tfood-img-txt">
                                 <h6>Tender fried baby squid with a salt, pepper</h6>
                                 <p>Nisl quam nestibulum ac quam nec odio elementu aucan ligula. varius natoque pena tibus et ma urient monte nascete ridiculus.</p>
@@ -328,10 +328,10 @@
                         </div>
                         <div class="test-food-img">
                             <img src="images/p2 test food slider img 3.png" alt="">
-                            <div class="test-food-img-date">
+                            <!-- <div class="test-food-img-date">
                                 <h5>17</h5>
                                 <h6>June</h6>
-                            </div>
+                            </div> -->
                             <div class="tfood-img-txt">
                                 <h6>Tender fried baby squid with a salt, pepper</h6>
                                 <p>Nisl quam nestibulum ac quam nec odio elementu aucan ligula. varius natoque pena tibus et ma urient monte nascete ridiculus.</p>
@@ -342,10 +342,10 @@
                         </div>
                         <div class="test-food-img">
                             <img src="images/p2 test food slider img 4.png" alt="">
-                            <div class="test-food-img-date">
+                            <!-- <div class="test-food-img-date">
                                 <h5>15</h5>
                                 <h6>June</h6>
-                            </div>
+                            </div> -->
                             <div class="tfood-img-txt">
                                 <h6>Tender fried baby squid with a salt, pepper</h6>
                                 <p>Nisl quam nestibulum ac quam nec odio elementu aucan ligula. varius natoque pena tibus et ma urient monte nascete ridiculus.</p>
@@ -356,10 +356,10 @@
                         </div>
                         <div class="test-food-img">
                             <img src="images/p2 test food slider img 1.png" alt="">
-                            <div class="test-food-img-date">
+                            <!-- <div class="test-food-img-date">
                                 <h5>15</h5>
                                 <h6>June</h6>
-                            </div>
+                            </div> -->
                             <div class="tfood-img-txt">
                                 <h6>Tender fried baby squid with a salt, pepper</h6>
                                 <p>Nisl quam nestibulum ac quam nec odio elementu aucan ligula. varius natoque pena tibus et ma urient monte nascete ridiculus.</p>
@@ -370,10 +370,10 @@
                         </div>
                         <div class="test-food-img">
                             <img src="images/p2 test food slider img 2.png" alt="">
-                            <div class="test-food-img-date">
+                            <!-- <div class="test-food-img-date">
                                 <h5>16</h5>
                                 <h6>June</h6>
-                            </div>
+                            </div> -->
                             <div class="tfood-img-txt">
                                 <h6>Tender fried baby squid with a salt, pepper</h6>
                                 <p>Nisl quam nestibulum ac quam nec odio elementu aucan ligula. varius natoque pena tibus et ma urient monte nascete ridiculus.</p>
@@ -384,10 +384,10 @@
                         </div>
                         <div class="test-food-img">
                             <img src="images/p2 test food slider img 3.png" alt="">
-                            <div class="test-food-img-date">
+                            <!-- <div class="test-food-img-date">
                                 <h5>17</h5>
                                 <h6>June</h6>
-                            </div>
+                            </div> -->
                             <div class="tfood-img-txt">
                                 <h6>Tender fried baby squid with a salt, pepper</h6>
                                 <p>Nisl quam nestibulum ac quam nec odio elementu aucan ligula. varius natoque pena tibus et ma urient monte nascete ridiculus.</p>
@@ -398,10 +398,10 @@
                         </div>
                         <div class="test-food-img">
                             <img src="images/p2 test food slider img 4.png" alt="">
-                            <div class="test-food-img-date">
+                            <!-- <div class="test-food-img-date">
                                 <h5>15</h5>
                                 <h6>June</h6>
-                            </div>
+                            </div> -->
                             <div class="tfood-img-txt">
                                 <h6>Tender fried baby squid with a salt, pepper</h6>
                                 <p>Nisl quam nestibulum ac quam nec odio elementu aucan ligula. varius natoque pena tibus et ma urient monte nascete ridiculus.</p>
@@ -567,7 +567,30 @@
             arrows: true,
             autoplay: true,
             infinite: true,
-            autoplaySpeed: 50000
+            autoplaySpeed: 50000,
+            responsive: [
+            {
+            breakpoint: 766,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2,
+            }
+            },
+            {
+            breakpoint: 575,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+            },
+            {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+            }
+        ]
         });
         $(".prev-btn").click(function () {
             $(".test-food-slider").slick("slickPrev");
