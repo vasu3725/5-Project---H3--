@@ -1,0 +1,6153 @@
+@media screen and (min-width:1241px) and (max-width:1500px){
+
+.brand-head-btn a
+{
+    margin-right: 30px;
+}
+
+.franchise
+{
+    position: relative;
+    margin: 40px 0px;
+}
+
+.franchise img
+{
+    width: 100%;
+}
+
+.franchise-txt 
+{
+    position: absolute;
+    z-index: 1;
+    top: 160px;
+    right: 40px;
+}
+
+.franchise-txt h2
+{
+    color: #000;
+    width: 400px;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.franchise-txt p
+{
+    color: #000;
+    width: 500px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.your-email
+{
+    display: flex;
+}
+
+.your-email
+{
+    position: relative;
+}
+
+.franchise-txt input
+{
+    border: none;
+    padding: 17px;
+    padding-right: 28%;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+}
+
+.your-email a
+{
+    color: #fff;
+    border: 2px solid #4FAEAA;
+    background: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    padding: 17px 25px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+}
+
+.your-email a:hover
+{
+    color: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    background: #fff;
+    font-family: 'Nunito-Bold';
+    padding: 17px 25px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+}
+
+/* ************************************************************************** */
+
+.new-customer-offer-bg
+{
+    background-image: url(../images/p3\ new\ customer\ offer\ bg.png);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 90px 0px;
+}
+
+.new-customer-offer
+{
+    text-align: center;
+}
+
+.new-customer-offer h2
+{
+    color: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    /* font-size: 28px; */
+    margin-bottom: 15px;
+}
+
+.new-customer-offer h5
+{
+    width: 300px;
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.new-customer-offer p
+{
+    color: #000;
+    width: 390px;
+    margin: 0 auto;
+    
+    margin-bottom: 25px;
+}
+
+.new-customer-offer a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.new-customer-offer a:hover
+{
+    color: #4FAEAA;
+    background: transparent;
+    border: 2px solid #4FAEAA;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.core-item-body-content p
+{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+}
+
+/* ******************************************************************************************************************************************************************************************************************************************************************************************************** */
+
+@media screen and (min-width:1025px) and (max-width:1240px){
+	
+.nav-list a
+{
+    font-size: 13px;
+}
+
+.started-txt h1
+{
+    width: 300px;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.get-video a
+{
+    padding: 15px 30px;
+    font-size: 13px;
+}
+
+.btn-wrap button img
+{
+    width: 50px;
+}
+
+.treditional-food
+{
+    padding: 20px 0px;
+}
+
+.td-food-txt h2
+{
+    line-height: 40px;
+}
+
+.td-food-txt a
+{
+    padding: 13px 30px;
+}
+
+.td-food-img img
+{
+    width: 470px;
+    margin: 50px 0px;
+}
+
+.solution-card
+{
+    height: 380px;
+}
+
+.solution-btn
+{
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+    left: 80px;
+}
+
+.solution-btn a
+{
+    font-size: 15px;
+    padding: 10px 20px;
+}
+
+.loved-food-img img
+{
+    margin: 50px 0px;
+}
+
+
+.our-story
+{
+    display: none;
+}
+
+.started-image img
+{
+    width: 370px;
+}
+
+.poke-txt 
+{
+    width: 330px;
+    background: #4FAEAA;
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    font-size: 13px;
+
+    position: relative;
+
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: 0;
+}
+
+.poke-txt p
+{
+    width: 280px;
+    color: #fff;
+    text-align: left;
+    font-family: 'Nunito-Regular';
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.poke-txt h6
+{
+    font-size: 12px;
+    text-align: right;
+    font-family: 'Nunito-Bold';
+}
+
+.poke-img img
+{
+    width: 35px;
+
+    position: absolute;
+    z-index: 1;
+    top: -7px;
+    left: -15px;
+}
+
+
+
+.brand-head-btn
+{
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.brand h6
+{
+    color: #4FAEAA;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+.brand h2
+{
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.review-img img
+{
+    width: 510px;
+    height: 100%;
+}
+
+.review-txt p
+{
+    width: 470px;
+    color: #000;
+    font-size: 10px;
+}
+
+.review-arrow
+{
+    display: flex;
+
+    position: absolute;
+    z-index: 9;
+    bottom: 33px;
+    left: 439px;
+}
+
+.shipping
+{
+    display: flex;
+    background: #fff;
+    padding: 30px 0px;
+    margin-top: -20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    justify-content: space-evenly;
+    position: relative;
+    z-index: 9;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+/* ***************************************************************** */
+
+.franchise
+{
+    position: relative;
+    margin: 40px 0px;
+}
+
+.franchise-txt-align
+{
+    margin-top: 0px;
+}
+
+.franchise-txt 
+{
+    position: absolute;
+    z-index: 1;
+    top: 130px;
+    right: 40px;
+}
+
+.franchise-txt h2
+{
+    color: #000;
+    width: 400px;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-align: left;
+}
+.franchise-txt p
+{
+    color: #000;
+    width: 450px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+/* ***************************************************************************************** */
+
+.food-before img
+{
+    width: 100%;
+    margin-top: -35px;
+}
+
+/* ************************************************************************** */
+
+.core-value-slide
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+    margin-bottom: -70px;
+}
+
+.swiper-slide img
+{
+    width: 280px;
+    height: 100%;
+}
+
+.test-food h6
+{
+    font-size: 13px;
+}
+
+.test-food h2
+{
+    font-size: 25px;
+}
+
+.test-food p
+{
+    font-size: 12px;
+}
+
+.btn-wrap-about
+{
+    display: flex;
+}
+
+.btn-wrap-about img
+{
+    width: 35px;
+}
+
+.swiper-wrapper
+{
+    margin-left: -100px;
+}
+
+.swiper-slide img
+{
+    width: 300px;
+    margin: 80px 0px;
+}
+
+.core-value-slide 
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+.core-item-body-content p
+{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+}
+
+/* ******************************************************************************************************************************************************************************************************************************************************************************************************** */
+
+@media screen and (min-width:992px) and (max-width:1024px){
+
+.nav-list a
+{
+    font-size: 14px;
+}
+
+.started-txt h6
+{
+    color: #4FAEAA;
+    margin-bottom: 15px;
+}
+
+.started-txt h1
+{
+    width: 400px;
+    color: #000;
+    font-family: 'Nunito-Bold';
+    font-size: 35px;
+    line-height: 55px;
+    margin-bottom: 15px;
+}
+
+.started-txt p
+{
+    width: 420px;
+    margin-bottom: 40px;
+    font-size: 14px;
+}
+
+.started-image img
+{
+    width: 370px;
+}
+
+.brand-logo
+{
+    max-width: 70px;
+    max-height: 70px;
+    background: #fff;
+    border-radius: 50%;
+    border: 4px solid #4FAEAA;
+    padding: 5px;
+
+    position: absolute;
+    z-index: 9;
+    top: 112px;
+    right: 50px;
+}
+
+.brand-logo img
+{
+    width: 55px;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    object-fit: contain;
+}
+
+.poke-txt 
+{
+    width: 330px;
+    background: #4FAEAA;
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    font-size: 13px;
+
+    position: relative;
+
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: 0;
+}
+
+.poke-txt p
+{
+    width: 280px;
+    color: #fff;
+    text-align: left;
+    font-family: 'Nunito-Regular';
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.poke-txt h6
+{
+    font-size: 12px;
+    text-align: right;
+    font-family: 'Nunito-Bold';
+}
+
+.poke-img img
+{
+    width: 35px;
+
+    position: absolute;
+    z-index: 1;
+    top: -7px;
+    left: -15px;
+}
+
+.td-food-img img
+{
+    width: 445px;
+    margin: 40px;
+}
+
+.review-img img
+{
+    width: 495px;
+    height: 100%;
+}
+
+.review-txt p
+{
+    width: 430px;
+    color: #000;
+    font-size: 10px;
+    margin-left: 1px;
+}
+
+.review-arrow
+{
+    display: flex;
+
+    position: absolute;
+    z-index: 9;
+    bottom: 43px;
+    left: 422px;
+}
+
+.shipping
+{
+    display: flex;
+    background: #fff;
+    padding: 30px 0px;
+    margin-top: -20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    justify-content: space-evenly;
+    position: relative;
+    z-index: 9;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.footer a
+{
+    font-size: 15px;
+}
+
+.footer p
+{
+    font-size: 15px;
+}
+
+.solution-btn
+{
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+    left: 90px;
+    font-size: 15px;
+}
+
+.solution-btn a
+{
+    padding: 10px 20px;
+    font-size: 13px;
+}
+
+.solution-btn a:hover
+{
+    padding: 10px 20px;
+    font-size: 13px;
+}
+
+.brand-head-btn
+{
+    margin-right: 30px;
+}
+
+.brand-head-btn a 
+{
+    color: #4FAEAA;
+    background: #fff;
+    border: 2px solid #4FAEAA;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 13px;
+}
+
+.brand-head-btn a:hover
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 13px;
+}
+
+.footer-before-home img {
+    width: 100%;
+    margin-top: -160px;
+}
+
+/* *********************************************************************** */
+.business-services-img,
+.business-services-img-right
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.business-services-img img
+{
+    width: 400px;
+    margin: 35px 0px;
+}
+
+.business-services-icon img
+{
+    width: 180px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -48px;
+    right: -45px;
+    z-index: 1;
+}
+
+.business-services-img-right img
+{
+    width: 400px;
+    margin: 35px 0px;
+}
+
+.business-services-icon-right img
+{
+    width: 180px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -48px;
+    left: -48px;
+    z-index: 1;
+}
+
+/* *********************************************************************** */
+
+	.franchise
+{
+    position: relative;
+    margin: 40px 0px;
+}
+
+.franchise-txt-align
+{
+    margin-top: 0px;
+}
+
+.franchise-txt 
+{
+    position: absolute;
+    z-index: 1;
+    top: 130px;
+    right: 40px;
+}
+
+.franchise-txt h2
+{
+    color: #000;
+    width: 400px;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-align: left;
+}
+
+.franchise-txt p
+{
+    color: #000;
+    width: 450px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.love-food-after img
+{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: relative;
+    margin-bottom: -140px;
+}
+
+/* ************************************************************************** */
+
+.new-customer-offer-bg
+{
+    background-image: url(../images/p3\ new\ customer\ offer\ bg.png);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 45px 0px;
+}
+
+.new-customer-offer
+{
+    text-align: center;
+}
+
+.new-customer-offer h2
+{
+    color: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.new-customer-offer h5
+{
+    width: 300px;
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.new-customer-offer p
+{
+    color: #000;
+    width: 390px;
+    margin: 0 auto;
+    
+    margin-bottom: 25px;
+}
+
+.new-customer-offer a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.new-customer-offer a:hover
+{
+    color: #4FAEAA;
+    background: transparent;
+    border: 2px solid #4FAEAA;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+/* ************************************************************************************ */
+
+.tfood-img-txt
+{
+    margin-top: 20px;
+}
+
+.tfood-img-txt h6
+{
+    font-size: 10px;
+    color: #fff;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+}
+
+.tfood-img-txt p
+{
+    color: #fff;
+    width: 220px;
+    font-size: 8px;
+    margin-bottom: 10px;
+}
+
+.tfood-img-btn a
+{
+    color: #fff;
+    background: #42928f;
+    border: 2px solid #42928f;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+
+.tfood-img-btn a:hover
+{
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+/* ***************************************************************************************** */
+
+.food-before img
+{
+    width: 100%;
+    margin-top: -35px;
+}
+
+/* ************************************************************** */
+
+.order-foods-img img
+{
+    width: 500px;
+
+    position: absolute;
+    bottom: -20px;
+    right: 0px;
+    z-index: 1;
+}
+
+.our-story
+{
+    display: none;
+}
+
+/* ************************************************************************** */
+
+.core-value-slide
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+    margin-bottom: -70px;
+}
+
+.swiper-slide img
+{
+    width: 280px;
+    height: 100%;
+}
+
+.test-food h6
+{
+    font-size: 13px;
+}
+
+.test-food h2
+{
+    font-size: 25px;
+}
+
+.test-food p
+{
+    font-size: 12px;
+}
+
+.btn-wrap-about
+{
+    display: flex;
+}
+
+.btn-wrap-about img
+{
+    width: 35px;
+}
+
+.swiper-wrapper
+{
+    margin-left: -100px;
+    margin-top: 80px;
+}
+
+.swiper-slide img
+{
+    width: 300px;
+}
+
+.core-value-slide 
+{
+    display: flex;
+    justify-content: center;
+}
+
+/* ################# */
+
+.core-value-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt h2
+{
+    font-size: 30px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt p
+{
+    font-size: 14px;
+}
+
+.core-item-img img
+{
+    width: 50px;
+}
+
+.core-item-cnt-head h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.core-item-cnt-head p
+{
+    font-size: 10px;
+    line-height: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-body-content p
+{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.core-item-header::after
+{
+    font-size: 15px;
+    width: 17px;
+    height: 17px;
+}
+
+.terms-item-cnt-head h5
+{
+    font-size: 18px;
+}
+
+.privacy-item-cnt-head h5
+{
+    font-size: 18px;
+}
+
+/* ****************************************************** */
+
+.contact-form h2
+{
+    font-size: 30px;
+}
+
+.form-dtl-part input,
+.form-dtl-part select
+{
+    min-height: 60px;
+}
+
+.form-dtl-part textarea
+{
+    height: 200px;
+}
+
+.form-dtl-part i {
+    top: 18px;
+}
+
+.co-dtl-txt h5
+{
+    font-size: 18px;
+}
+
+.company-dtl
+{
+    margin: 0px;
+}
+
+.privacy-insta-contact h2
+{
+    font-size: 30px;
+}
+
+.privacy-insta-icon img
+{
+    width: 15px;
+}
+
+.offer-product-img-beverages img 
+{
+    width: 450px;
+    position: absolute;
+    z-index: 1;
+    bottom: -45px;
+    left: 20px;
+}
+
+.offer-product-bg-beverages
+{
+    margin-bottom: 30px;
+}
+
+.offer-product-bg-ice-cream
+{
+    margin-bottom: 30px;
+}
+
+}
+
+/* ******************************************************************************************************************************************************************************************************************************************************************************************************** */
+
+@media screen and (min-width:768px) and (max-width:991px){
+.nav {
+    margin: 0;
+    padding: 0;
+}
+.nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-top: 0.2rem;
+}
+.nav-btn label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+    margin-top: 10px;
+}
+.nav-btn label span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #000;
+}
+.nav-list {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    background-color: #4FAEAA;
+    height: 0;
+    transition: all 0.3s ease-in;
+    top: 60px;
+    left: 0;
+    overflow: hidden;
+    z-index: 9;
+    padding: 0px;
+}
+.nav-list li {
+    width: 100%;
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+#nav-check:checked ~ .nav-list {
+    height: calc(100vh - 50px);
+}
+
+.nav-menu.active {
+    border-bottom: 4px solid #000;
+    padding-bottom: 7px;
+    transition: none;
+}    
+
+.nav-list a{
+    color: #fff;
+}
+
+.nav-list a.active{
+    color: #000;
+}   
+
+/* .order-foods-txt h2
+{
+    width: 100%;
+    color: #fff;
+    font-family: 'Nunito-Bold';
+    line-height: 45px;
+    margin-bottom: 15px;
+} */
+
+/* ************************************************************** */
+
+.review-txt p
+{
+    width: 100%;
+    font-size: 14px;
+}
+
+.started-txt h1
+{
+    width: 100%;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.started-txt p
+{
+    width: 300px;
+    font-size: 13px;
+}
+
+.started-txt a
+{
+    font-size: 10px;
+    padding: 10px 20px;
+}
+
+.started-txt a:hover
+{
+    font-size: 10px;
+    padding: 10px 20px;
+}
+
+.started-img
+{
+    display: flex;
+    justify-content: right;
+    margin-left: 40px;
+}
+
+.started-image img
+{
+    width: 300px;
+}
+
+.p1-mini-video img 
+{
+    max-width: 40px;
+    max-height: 40px;
+    margin-top: 9px;
+}
+
+.p1-mini-video h6 {
+    color: #000;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.btn-wrap button img
+{
+    width: 50px;
+}
+
+.poke-txt
+{
+    width: 250px;
+    background: #4FAEAA;
+    border-radius: 10px;
+    text-align: left;
+    padding: 15px;
+    font-size: 11px;
+    position: relative;
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: -90px;
+}
+
+.poke-txt p
+{
+    width: 220px;
+    color: #fff;
+    text-align: left;
+    font-family: 'Nunito-Regular';
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.poke-txt h6
+{
+    font-size: 10px;
+    text-align: right;
+    font-family: 'Nunito-Bold';
+}
+
+.poke-img img
+{
+    width: 30px;
+    position: absolute;
+    z-index: 1;
+    top: -7px;
+    left: -13px;
+}
+
+.treditional-food
+{
+    padding-top: 0px;
+}
+
+.td-food-txt h6
+{
+    margin-bottom: 7px;
+}
+
+.td-food-txt h2
+{
+    width: 400px;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.td-food-img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.td-btn
+{
+    margin-top: 30px;
+}
+
+.td-btn a
+{
+    padding: 10px 20px;
+}
+
+.td-btn a:hover
+{
+    padding: 10px 20px;
+}
+
+.solution-card
+{
+    height: 320px;
+}
+
+.solution-card p
+{
+    font-size: 14px;
+}
+
+.solution-btn
+{
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+    left: 285px;
+    font-size: 15px;
+}
+
+.solution-btn a
+{
+    padding: 10px 20px;
+}
+
+.solution-btn a:hover
+{
+    padding: 10px 20px;
+}
+
+.brand
+{
+    margin-top: 40px;
+    margin-bottom: -60px;
+}
+
+.brand-title h6
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+    margin-left: 30px;
+}
+
+.brand-title h2
+{
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.review-people-avtar img
+{
+    max-width: 30px;
+    max-height: 30px;
+    display: flex;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.active-img
+{
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.five-star img
+{
+    width: 70px;
+}
+
+.review-txt h6
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.review-txt h2
+{
+    width: 270px;
+    font-size: 20px;
+}
+
+.review-img img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.review-arrow button img
+{
+    width: 50px;
+}
+
+.review-arrow
+{
+    display: flex;
+
+    position: absolute;
+    z-index: 9;
+    bottom: 5px;
+    left: 89%;
+}
+
+.loved-food-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.loved-food-txt h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.loved-food-txt span
+{
+    font-size: 14px;
+}
+
+.loved-food-txt p
+{
+    font-size: 14px;
+}
+
+.loved-food-btn a
+{
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.loved-food-btn a:hover
+{
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.loved-food-img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loved-food-img img
+{
+    width: 450px;
+}
+
+.love-food-after img
+{
+    margin-bottom: 93px;
+}
+
+.partner-bg
+{
+    margin-top: 0px;
+    padding-top: 110px;
+}
+
+.shipping
+{
+    padding: 15px 0px;
+}
+
+.shipping-service img
+{
+    width: 35px;
+}
+
+.shipping-truck
+{
+    margin-bottom: 30px;
+}
+
+.shipping-service h5
+{
+    font-size: 17px;
+    margin-bottom: 7px;
+}
+
+.shipping-service p
+{
+    font-size: 12px;
+}
+
+.footer a,p
+{
+    font-size: 15px;
+}
+
+.choose-us-img
+{
+    margin-top: 50px;
+}
+
+.choose-us-img img
+{
+    width: 500px;
+}
+
+.franchise
+{
+    position: relative;
+    margin: 40px 0px;
+}
+
+.franchise-txt 
+{
+    position: absolute;
+    z-index: 1;
+    top: 100px;
+    right: 40px;
+}
+
+.franchise-txt h2
+{
+    color: #000;
+    width: 300px;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+    font-size: 26px;
+    text-align: left;
+}
+
+.franchise-txt p
+{
+    color: #000;
+    width: 430px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.your-email
+{
+    display: flex;
+}
+
+.your-email
+{
+    position: relative;
+}
+
+.franchise-txt input
+{
+    border: none;
+    padding: 15px;
+    padding-right: 40%;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 15px;
+}
+
+.franchise-txt-align
+{
+    margin-top: 25px;
+}
+
+.your-email a
+{
+    color: #fff;
+    border: 2px solid #4FAEAA;
+    background: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    padding: 15px 38px;
+    font-size: 15px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+}
+
+.your-email a:hover
+{
+    color: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    background: #fff;
+    font-family: 'Nunito-Bold';
+    padding: 18px 38px;
+    font-size: 14px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+}
+
+.love-food-after img
+{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: relative;
+    margin-bottom: -55px;
+}
+
+/* *********************************************************************** */
+
+.business-services-img
+{
+    margin-right: 30px;
+}
+
+.business-services-img-right
+{
+    margin-left: 30px;
+}
+
+.business-services-img img
+{
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.business-services-txt h2
+{
+    width: 200px;
+    font-size: 20px;
+}
+
+.business-services-icon img
+{
+    width: 180px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -25px;
+    right: -10%;
+    z-index: 1;
+}
+
+.business-services-img-right img
+{
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.business-services-icon-right img
+{
+    width: 180px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -25px;
+    left: -10%;
+    z-index: 1;
+}
+
+
+
+/* ******************************************************************** */
+
+.our-story
+{
+    display: none;
+}
+
+.started-txt
+{
+    margin-bottom: 0px;
+}
+
+.treditional-food
+{
+    padding-top: 0px;
+}
+
+.td-food-img
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand-head-btn
+{
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.brand h6
+{
+    color: #4FAEAA;
+    margin-bottom: 15px;
+    margin-left: 30px;
+}
+
+.brand h2
+{
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+.brand-head-btn a 
+{
+    color: #4FAEAA;
+    background: #fff;
+    border: 2px solid #4FAEAA;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 13px;
+}
+
+.brand-head-btn a:hover
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 13px;
+}
+
+/* ******************************************************************** */
+
+.choose-us-img
+{
+    margin-top: 50px;
+}
+
+.choose-us-img img
+{
+    width: 500px;
+}
+
+.franchise
+{
+    position: relative;
+    margin: 40px 0px;
+}
+
+.loved-food-img
+{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loved-food-img img
+{
+    width: 450px;
+}
+
+.love-food-after img
+{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: relative;
+    margin-bottom: -115px;
+}
+
+.footer-before-home img {
+    width: 100%;
+    margin-top: -135px;
+}
+
+/* **************************************************************** */
+
+.who-we-img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px;
+}
+
+.who-we-img img
+{
+    width: 500px;
+}
+
+.food-before img {
+    width: 100%;
+    margin-top: -35px;
+}
+
+.mission-cnt-img img {
+    width: 71%;
+}
+
+.mission-cnt-img
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+    position: relative;
+}
+
+.mission-cnt-icon-img
+{
+    position: absolute;
+    z-index: 1;
+    bottom: -20px;
+    left: 60px;
+}
+
+/* ************************* Product ********************* */
+.offer-product-txt-beverages
+{
+    text-align: left;
+
+    position: absolute;
+    z-index: 1;
+    top: 60px;
+    left: 50px;
+}
+
+.offer-product-txt-beverages h6
+{
+    font-size: 20px;
+}
+
+.offer-product-txt-beverages h5
+{
+    font-size: 35px;
+}
+
+.offer-product-txt-beverages h4
+{
+    font-size: 25px;
+}
+
+.offer-product-txt-beverages a
+{
+    font-size: 20px;
+}
+
+/* ===================== */
+
+.offer-product-bg-ice-cream
+{
+    position: relative;
+}
+
+.offer-product-txt-ice-cream
+{
+    text-align: left;
+
+    position: absolute;
+    z-index: 1;
+    top: 40px;
+    left: 20px;
+}
+
+.offer-product-txt-ice-cream h6
+{
+    font-size: 20px;
+}
+
+.offer-product-txt-ice-cream h5
+{
+    font-size: 25px;
+}
+
+.offer-product-txt-ice-cream h4
+{
+    font-size: 20px;
+}
+
+.offer-product-txt-ice-cream a
+{
+    font-size: 15px;
+}
+
+/* ================================== */
+
+.offer-product-bg-poke
+{
+    position: relative;
+}
+
+.offer-product-txt-poke
+{
+    text-align: left;
+
+    position: absolute;
+    z-index: 1;
+    top: 40px;
+    left: 20px;
+}
+
+.offer-product-txt-poke h6
+{
+    font-size: 20px;
+}
+
+.offer-product-txt-poke h5
+{
+    font-size: 25px;
+}
+
+.offer-product-txt-poke h4
+{
+    font-size: 20px;
+}
+
+.offer-product-txt-poke a
+{
+    font-size: 15px;
+}
+
+/* ************************************************************************** */
+
+.new-customer-offer-bg
+{
+    background-image: url(../images/p3\ new\ customer\ offer\ bg.png);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 90px 0px;
+    padding-top: 10px;
+}
+
+.new-customer-offer
+{
+    text-align: center;
+}
+
+.new-customer-offer h2
+{
+    color: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.new-customer-offer h5
+{
+    width: 300px;
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin: 0 auto;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.new-customer-offer p
+{
+    color: #000;
+    width: 350px;
+    margin: 0 auto;
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+
+.new-customer-offer a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-size: 12px;
+}
+
+.new-customer-offer a:hover
+{
+    color: #4FAEAA;
+    background: transparent;
+    border: 2px solid #4FAEAA;
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-size: 12px;
+}
+
+/* ************************************************** */
+
+.beverages-food-img-txt
+{
+    width: 100%;
+    text-align: center;
+}
+
+.beverages-food-img-txt h5
+{
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.food-five-star
+{
+    display: flex;
+    justify-content: center;
+}
+
+.food-five-star img
+{
+    width: 130px;
+    margin-bottom: 15px;
+}
+
+.bevrages-food-price
+{
+    width: 240px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.bevrages-food-price h6
+{
+    color: #000;
+    font-family: 'Nunito-bold';
+    margin-left: 10px;
+    margin-right: 25px;
+}
+
+.bevrages-food-price p
+{
+    color: #9F9F9F;
+    font-size: 13px;
+}
+
+
+/* ************************************************************************************ */
+
+.tfood-img-txt
+{
+    margin-top: 20px;
+}
+
+.tfood-img-txt h6
+{
+    font-size: 10px;
+    color: #fff;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+}
+
+.tfood-img-txt p
+{
+    color: #fff;
+    width: 180px;
+    font-size: 8px;
+    margin-bottom: 10px;
+}
+
+.tfood-img-btn a
+{
+    color: #fff;
+    background: #42928f;
+    border: 2px solid #42928f;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+
+.tfood-img-btn a:hover
+{
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+
+/* ************************************************************** */
+
+.order-foods-txt h2
+{
+    width: 100%;
+}
+
+.order-foods-img img
+{
+    width: 100%;
+
+    position: absolute;
+    bottom: -20px;
+    right: 25px;
+    z-index: 1;
+}
+
+.brand-logo
+{
+    max-width: 70px;
+    max-height: 70px;
+    background: #fff;
+    border-radius: 50%;
+    border: 4px solid #4FAEAA;
+    padding: 5px;
+
+    position: absolute;
+    z-index: 9;
+    top: 20px;
+    right: 50px;
+}
+
+.brand-logo img
+{
+    width: 45px;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    object-fit: contain;
+}
+
+/* ************************************************************************** */
+
+.core-value-slide
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+    margin-bottom: -70px;
+}
+
+.swiper-slide img
+{
+    width: 280px;
+    height: 100%;
+}
+
+.test-food h6
+{
+    font-size: 13px;
+}
+
+.test-food h2
+{
+    font-size: 25px;
+}
+
+.test-food p
+{
+    font-size: 12px;
+}
+
+.btn-wrap-about
+{
+    display: flex;
+}
+
+.btn-wrap-about img
+{
+    width: 35px;
+}
+
+.swiper-wrapper
+{
+    margin-left: -100px;
+}
+
+.swiper-slide img
+{
+    width: 250px;
+    margin: 80px 0px;
+}
+
+.core-value-slide 
+{
+    display: flex;
+    justify-content: center;
+}
+
+/* ################# */
+
+.core-value-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt p
+{
+    font-size: 14px;
+}
+
+.core-item-img img
+{
+    width: 50px;
+}
+
+.core-item-cnt-head h6
+{
+    font-size: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-cnt-head p
+{
+    font-size: 13px;
+    line-height: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-body-content p
+{
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.core-item-header::after
+{
+    font-size: 15px;
+    width: 17px;
+    height: 17px;
+}
+
+/* ******************************************************* */
+
+.who-we-txt h6
+{
+    font-size: 13px;
+}
+
+.who-we-txt h2
+{
+    font-size: 25px;
+}
+
+.who-we-txt p
+{
+    font-size: 14px;
+}
+
+.who-we-main img
+{
+    width: 350px;
+}
+
+.mission-cnt-txt h6
+{
+    font-size: 13px;
+}
+
+.mission-cnt-txt h2
+{
+    font-size: 25px;
+}
+
+.mission-cnt-txt p
+{
+    font-size: 14px;
+}
+
+.mission-cnt-txt span
+{
+    font-size: 14px;
+}
+
+.terms-item-cnt-head h5
+{
+    font-size: 18px;
+}
+
+/* ****************************************************** */
+
+.contact-form h2
+{
+    font-size: 30px;
+}
+
+.form-dtl-part input,
+.form-dtl-part select
+{
+    min-height: 60px;
+}
+
+.form-dtl-part textarea
+{
+    height: 200px;
+}
+
+.form-dtl-part i {
+    top: 18px;
+}
+
+.co-dtl-txt h5
+{
+    font-size: 16px;
+}
+
+.company-dtl
+{
+    margin: 10px;
+}
+
+.privacy-insta-contact h2
+{
+    font-size: 30px;
+}
+
+.privacy-insta-icon img
+{
+    width: 15px;
+}
+
+
+/* ************************************************** */
+
+.beverages-food-img-txt
+{
+    width: 100%;
+    text-align: center;
+}
+
+.beverages-food-img-txt h5
+{
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.food-five-star
+{
+    display: flex;
+    justify-content: center;
+}
+
+.food-five-star img
+{
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+.bevrages-food-price
+{
+    width: 240px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.bevrages-food-price h6
+{
+    color: #000;
+    font-family: 'Nunito-bold';
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 13px;
+}
+
+.bevrages-food-price p
+{
+    color: #9F9F9F;
+    font-size: 13px;
+}
+
+.order-foods-txt h2
+{
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.offer-product-img-beverages img 
+{
+    width: 600px;
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: 150px;
+}
+
+.offer-product-bg-beverages
+{
+    margin-bottom: 30px;
+}
+
+.offer-product-bg-ice-cream
+{
+    margin-bottom: 30px;
+}
+
+}
+
+
+/* ******************************************************************************************************************************************************************************************************************************************************************************************************** */
+
+@media screen and (max-width: 767px){
+.nav {
+    margin: 0;
+    padding: 0;
+}
+.nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-top: 0.2rem;
+}
+.nav-btn label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+    margin-top: 10px;
+}
+.nav-btn label span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #000;
+}
+.nav-list {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    background-color: #4FAEAA;
+    height: 0;
+    transition: all 0.3s ease-in;
+    top: 60px;
+    left: 0;
+    overflow: hidden;
+    z-index: 9;
+    padding: 0px;
+}
+.nav-list li {
+    width: 100%;
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+#nav-check:checked ~ .nav-list {
+    height: calc(100vh - 50px);
+}
+
+.nav-menu.active {
+    border-bottom: 4px solid #000;
+    padding-bottom: 7px;
+    transition: none;
+}    
+
+.nav-list a{
+    color: #fff;
+}
+
+.nav-list a.active{
+    color: #000;
+}   
+/* ************************************************************** */
+
+.loved-food-txt span
+{
+    font-size: 14px;
+}
+
+.loved-food-txt p
+{
+    font-size: 14px;
+}
+
+.review-txt p
+{
+    width: 100%;
+    font-size: 14px;
+}
+
+.started-txt h1
+{
+    width: 100%;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.started-txt p
+{
+    width: 100%;
+}
+
+.started-txt a
+{
+    padding: 10px 20px;
+}
+
+.started-txt a:hover
+{
+    padding: 10px 20px;
+}
+
+.started-img
+{
+    display: flex;
+    justify-content: right;
+    margin-right: 50px;
+    margin-bottom: 5px;
+}
+
+.poke-txt
+{
+    width: 330px;
+    background: #4FAEAA;
+    border-radius: 10px;
+    text-align: left;
+    padding: 15px;
+    font-size: 11px;
+    position: relative;
+    position: absolute;
+    z-index: 1;
+    bottom: 30px;
+    left: 100px;
+}
+
+.treditional-food
+{
+    padding-top: 0px;
+}
+
+.td-food-txt h6
+{
+    margin-bottom: 7px;
+}
+
+.td-food-txt h2
+{
+    width: 400px;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.td-food-img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.td-btn
+{
+    margin-top: 30px;
+}
+
+.td-btn a
+{
+    padding: 10px 20px;
+}
+
+.td-btn a:hover
+{
+    padding: 10px 20px;
+}
+
+.solution-card
+{
+    height: 320px;
+}
+
+.solution-btn
+{
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+    left: 35%;
+    font-size: 15px;
+}
+
+.solution-btn a
+{
+    padding: 10px 20px;
+}
+
+.solution-btn a:hover
+{
+    padding: 10px 20px;
+}
+
+.brand
+{
+    margin-top: 40px;
+}
+
+.brand-title h6
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+    margin-left: 30px;
+}
+
+.brand-title h2
+{
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.review-people-avtar img
+{
+    max-width: 30px;
+    max-height: 30px;
+    display: flex;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.active-img
+{
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.five-star img
+{
+    width: 70px;
+}
+
+.review-txt h6
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.review-txt h2
+{
+    width: 270px;
+    font-size: 20px;
+}
+
+.review-img img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.review-arrow button img
+{
+    width: 50px;
+}
+
+.review-arrow
+{
+    display: flex;
+
+    position: absolute;
+    z-index: 9;
+    bottom: 5px;
+    left: 83%;
+}
+
+.loved-food-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.loved-food-txt h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.loved-food-txt p
+{
+    font-size: 12px;
+}
+
+.loved-food-btn a
+{
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+.loved-food-btn a:hover
+{
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+.loved-food-img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loved-food-img img
+{
+    width: 450px;
+}
+
+.love-food-after img
+{
+    margin-bottom: 93px;
+}
+
+.shipping
+{
+    padding: 15px 0px;
+}
+
+.shipping-service img
+{
+    width: 35px;
+}
+
+.shipping-truck
+{
+    margin-bottom: 30px;
+}
+
+.shipping-service h5
+{
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+
+.shipping-service p
+{
+    font-size: 11px;
+}
+
+.footer a,p
+{
+    font-size: 15px;
+}
+
+
+
+.choose-us-img
+{
+    margin-top: 50px;
+}
+
+.choose-us-img img
+{
+    width: 500px;
+}
+
+.choose-us-txt h6
+{
+    font-size: 14px;
+}
+
+.choose-us-txt h2
+{
+    font-size: 25px;
+}
+
+.business-services-txt h2
+{
+    width: 300px;
+    font-size: 25px;
+}
+
+.service-provide h2
+{
+    font-size: 25px;
+}
+
+.franchise
+{
+    position: relative;
+    margin: 40px 0px;
+}
+
+.franchise-txt 
+{
+    position: absolute;
+    z-index: 1;
+    top: 70px;
+    right: 40px;
+    margin-top: 10px;
+}
+
+.footer-bg
+{
+    margin-top: -60px;
+}
+
+.franchise-txt h2
+{
+    color: #000;
+    width: 200px;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 7px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.franchise-txt p
+{
+    color: #000;
+    width: 230px;
+    font-size: 7px;
+    margin-bottom: 7px;
+    text-align: left;
+}
+
+.franchise-txt-align
+{
+    margin-top: 0px;
+}
+
+.your-email
+{
+    display: flex;
+}
+
+.your-email
+{
+    position: relative;
+}
+
+.franchise-txt input
+{
+    border: none;
+    padding: 5px;
+    padding-right: 5%;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 15px;    
+}
+
+.franchise-txt input::placeholder
+{
+    font-size: 10px;
+    padding-left: 5px;
+}
+
+.your-email a
+{
+    color: #fff;
+    border: 2px solid #4FAEAA;
+    background: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    padding: 8px 15px;
+    font-size: 10px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: -20px;
+}
+
+.your-email a:hover
+{
+    color: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    background: #fff;
+    font-family: 'Nunito-Bold';
+    padding: 11px 20px;
+    font-size: 10px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+}
+
+.love-food-after img
+{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: relative;
+    margin-bottom: -120px;
+}
+
+.footer-before-home img {
+    width: 100%;
+    margin-top: -155px;
+}
+
+.partner-bg
+{
+    margin-top: 0px;
+    padding-top: 110px;
+}
+
+/* ************************************************************************** */
+
+.brand-head-btn
+{
+    margin-top: 20px;
+}
+
+.brand-head-btn a
+{
+    font-size: 10px;
+    padding: 10px 20px;
+    margin-right: 30px;
+}
+
+.brand-head-btn a:hover
+{
+    font-size: 10px;
+    padding: 10px 20px;
+    margin-right: 30px;
+}
+
+.brand-slider-txt
+{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.brand-slider-txt h4
+{
+    color: #4FAEAA;
+    margin-bottom: 5px;
+    font-family: 'Nunito-Bold';
+    font-size: 18px;
+}
+
+.brand-slider-txt p
+{
+    color: #000;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.brand-slider-txt a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 7px 14px;
+    border-radius: 50px;
+    font-size: 10px;
+}
+
+.brand-slider-txt a:hover
+{
+    color: #4FAEAA;
+    background: #fff;
+    border: 2px solid #4FAEAA;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 6px;
+}
+
+.brand-logo
+{
+    max-width: 70px;
+    max-height: 70px;
+    background: #fff;
+    border-radius: 50%;
+    border: 4px solid #4FAEAA;
+    padding: 5px;
+
+    position: absolute;
+    z-index: 9;
+    top: 70px;
+    right: 50px;
+}
+
+.brand-logo img
+{
+    width: 45px;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    object-fit: contain;
+}
+
+
+.our-story
+{
+    display: none;
+}
+
+.who-we-img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px;
+}
+
+.who-we-img img
+{
+    width: 500px;
+}
+
+.food-before img {
+    width: 100%;
+    margin-top: -35px;
+}
+
+.mission-cnt-img img {
+    width: 71%;
+}
+
+.mission-cnt-img
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+    position: relative;
+}
+
+.mission-cnt-icon-img
+{
+    position: absolute;
+    z-index: 1;
+    bottom: -20px;
+    left: 60px;
+}
+
+
+.business-services-img
+{
+    margin-right: 30px;
+}
+
+.business-services-img-right
+{
+    margin-left: 30px;
+}
+
+.business-services-img img
+{
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.business-services-txt h2
+{
+    width: 200px;
+    font-size: 20px;
+}
+
+.business-services-icon img
+{
+    width: 170px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -20px;
+    right: -14%;
+    z-index: 1;
+}
+
+.business-services-img-right img
+{
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.business-services-icon-right img
+{
+    width: 170px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -20px;
+    left: -14%;
+    z-index: 1;
+}
+
+
+
+
+/* ************************************************************************** */
+
+.new-customer-offer-bg
+{
+    background-image: url(../images/p3\ new\ customer\ offer\ bg.png);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.new-customer-offer
+{
+    text-align: center;
+}
+
+.new-customer-offer h2
+{
+    color: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.new-customer-offer h5
+{
+    width: 250px;
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin: 0 auto;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.new-customer-offer p
+{
+    color: #000;
+    width: 250px;
+    margin: 0 auto;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+.new-customer-offer a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 7px 20px;
+    border-radius: 50px;
+    font-size: 10px;
+}
+
+.new-customer-offer a:hover
+{
+    color: #4FAEAA;
+    background: transparent;
+    border: 2px solid #4FAEAA;
+    padding: 7px 20px;
+    border-radius: 50px;
+}
+
+/* ************************************************** */
+
+.beverages-food-img-txt
+{
+    width: 100%;
+    text-align: center;
+}
+
+.beverages-food-img-txt h5
+{
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.food-five-star
+{
+    display: flex;
+    justify-content: center;
+}
+
+.food-five-star img
+{
+    width: 100px;
+    margin-bottom: 15px;
+}
+
+.bevrages-food-price
+{
+    width: 240px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.bevrages-food-price h6
+{
+    color: #000;
+    font-family: 'Nunito-bold';
+    margin-left: 15px;
+    margin-right: 25px;
+    font-size: 12px;
+}
+
+.bevrages-food-price p
+{
+    color: #9F9F9F;
+    font-size: 12px;
+}
+
+
+/* ************************************************************************************ */
+
+.tfood-img-txt
+{
+    margin-top: 20px;
+}
+
+.tfood-img-txt h6
+{
+    font-size: 10px;
+    color: #fff;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+}
+
+.tfood-img-txt p
+{
+    color: #fff;
+    width: 170px;
+    font-size: 8px;
+    margin-bottom: 10px;
+}
+
+.tfood-img-btn a
+{
+    color: #fff;
+    background: #42928f;
+    border: 2px solid #42928f;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+
+.tfood-img-btn a:hover
+{
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+/* ***************************************************************************************** */
+
+.food-before img
+{
+    width: 100%;
+    margin-top: -35px;
+}
+
+/* ************************************************************************************************** */
+.order-foods-img
+{
+    display: none;
+}
+
+/* ************************************************************************** */
+
+.core-value-slide
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+    margin-bottom: -70px;
+}
+
+.swiper-slide img
+{
+    width: 280px;
+    height: 100%;
+}
+
+.test-food h6
+{
+    font-size: 13px;
+}
+
+.test-food h2
+{
+    font-size: 25px;
+}
+
+.test-food p
+{
+    font-size: 14px;
+}
+
+.btn-wrap-about
+{
+    display: flex;
+}
+
+.btn-wrap-about img
+{
+    width: 35px;
+}
+
+.swiper-wrapper
+{
+    margin-left: -100px;
+}
+
+.swiper-slide img
+{
+    width: 250px;
+    margin: 80px 0px;
+}
+
+.core-value-slide 
+{
+    display: flex;
+    justify-content: center;
+}
+
+/* ################# */
+
+.core-value-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt p
+{
+    font-size: 11px;
+}
+
+.core-item-img img
+{
+    width: 50px;
+}
+
+.core-item-cnt-head h6
+{
+    font-size: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-cnt-head p
+{
+    font-size: 13px;
+    line-height: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-body-content p
+{
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.core-item-header::after
+{
+    font-size: 15px;
+    width: 17px;
+    height: 17px;
+}
+
+/* ******************************************************* */
+
+.who-we-txt h6
+{
+    font-size: 13px;
+}
+
+.who-we-txt h2
+{
+    font-size: 25px;
+}
+
+.who-we-txt p
+{
+    font-size: 14px;
+}
+
+.who-we-main img
+{
+    width: 450px;
+}
+
+.mission-cnt-txt h6
+{
+    font-size: 14px;
+}
+
+.mission-cnt-txt h2
+{
+    font-size: 25px;
+}
+
+.mission-cnt-txt p
+{
+    font-size: 14px;
+}
+
+.terms-item-cnt-head h5
+{
+    font-size: 18px;
+}
+
+/* ****************************************************** */
+
+.contact-form h2
+{
+    font-size: 30px;
+}
+
+.form-dtl-part input,
+.form-dtl-part select
+{
+    min-height: 60px;
+}
+
+.form-dtl-part textarea
+{
+    height: 180px;
+}
+
+.form-dtl-part i {
+    top: 18px;
+}
+
+.co-dtl-txt h5
+{
+    font-size: 16px;
+}
+
+.company-dtl
+{
+    margin: 5px 0px;
+}
+
+.privacy-insta-contact h2
+{
+    font-size: 30px;
+}
+
+.privacy-insta-icon img
+{
+    width: 15px;
+}
+
+/* ********************************************************************** */
+
+.our-menu-heading h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.our-menu-heading h2
+{
+    font-size: 25px;
+}
+
+.menu-content h3
+{
+    font-size: 16px;
+}
+
+.menu-card-item-name h4
+{
+    width: 100%;
+    font-size: 18px;
+    text-align: left;
+}
+
+.menu-card-item-name h5
+{
+    font-size: 16px;
+}
+
+.menu-card-item-name h5 span
+{
+    font-size: 13px;
+}
+
+.menu-card-item-dtl p
+{
+    font-size: 12px;
+}
+
+.new-customer-offer
+{
+    padding-top: 35px;
+}
+
+.fresh-beverages-heading h3
+{
+    font-size: 25px;
+}
+
+.order-foods-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.order-foods-txt h2
+{
+    width: 100%;
+    font-size: 25px;
+    line-height: 35px;
+}
+.order-foods-txt p
+{
+    font-size: 12px;
+}
+
+.footer-before-product img
+{
+    width: 100%;
+    margin-bottom: -15px;
+}
+
+.footer-content
+{
+    padding: 30px 0px;
+}
+
+.offer-product-img-beverages img 
+{
+    width: 600px;
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: 150px;
+}
+
+.offer-product-bg-beverages
+{
+    margin-bottom: 30px;
+}
+
+.offer-product-bg-ice-cream
+{
+    margin-bottom: 30px;
+}
+
+.solution-card p
+{
+    font-size: 14px;
+}
+
+}
+
+/* ******************************************************************************************************************************************************************************************************************************************************************************************************** */
+
+@media screen and (max-width:575px){
+.nav {
+    margin: 0;
+    padding: 0;
+}
+.nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-top: 0.2rem;
+}
+.nav-btn label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+    margin-top: 10px;
+}
+.nav-btn label span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #000;
+}
+.nav-list {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    background-color: #4FAEAA;
+    height: 0;
+    transition: all 0.3s ease-in;
+    top: 60px;
+    left: 0;
+    overflow: hidden;
+    z-index: 9;
+    padding: 0px;
+}
+.nav-list li {
+    width: 100%;
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+#nav-check:checked ~ .nav-list {
+    height: calc(100vh - 50px);
+}
+
+.nav-menu.active {
+    border-bottom: 4px solid #000;
+    padding-bottom: 7px;
+    transition: none;
+}    
+
+.nav-list a{
+    color: #fff;
+}
+
+.nav-list a.active{
+    color: #000;
+}   
+    
+/* ************************************************************** */
+
+.review-txt p
+{
+    color: #000;
+    font-size: 14px;
+    margin-left: 1px;
+}
+
+.started-txt h1
+{
+    width: 300px;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.started-txt a
+{
+    padding: 10px 20px;
+}
+
+.started-txt a:hover
+{
+    padding: 10px 20px;
+}
+
+.td-btn
+{
+    margin-top: 30px;
+}
+
+.td-btn a
+{
+    padding: 10px 20px;
+}
+
+.td-btn a:hover
+{
+    padding: 10px 20px;
+}
+
+.solution-btn
+{
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+    left: 33%;
+    font-size: 15px;
+}
+
+.solution-btn a
+{
+    padding: 10px 20px;
+}
+
+.solution-btn a:hover
+{
+    padding: 10px 20px;
+}
+
+.brand
+{
+    margin-top: 40px;
+}
+
+.brand-title h6
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+    margin-left: 30px;
+}
+
+.brand-title h2
+{
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.review-people-avtar img
+{
+    max-width: 30px;
+    max-height: 30px;
+    display: flex;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.active-img
+{
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.five-star img
+{
+    width: 70px;
+}
+
+.review-txt h6
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.review-txt h2
+{
+    width: 270px;
+    font-size: 20px;
+}
+
+.review-arrow button img
+{
+    width: 40px;
+}
+
+.review-arrow
+{
+    display: flex;
+
+    position: absolute;
+    z-index: 9;
+    bottom: 5px;
+    left: 82%;
+}
+
+.loved-food-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.loved-food-txt h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.loved-food-txt p
+{
+    font-size: 14px;
+}
+
+.loved-food-txt span
+{
+    font-size: 14px;
+}
+
+.loved-food-btn a
+{
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+.loved-food-btn a:hover
+{
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+.love-food-after img
+{
+    margin-bottom: -117px;
+}
+
+.partner-bg
+{
+    margin-top: 0px;
+    padding-top: 125px;
+}
+
+.footer-before-home img {
+    width: 100%;
+    margin-top: -155px;
+}
+
+.shipping
+{
+    padding: 15px 0px;
+}
+
+.shipping-service img
+{
+    width: 35px;
+}
+
+.shipping-truck
+{
+    margin-bottom: 30px;
+}
+
+.shipping-service h5
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.shipping-service p
+{
+    font-size: 8px;
+}
+
+.footer a,p
+{
+    font-size: 15px;
+}
+
+.business-services-txt h2
+{
+    width: 300px;
+    font-size: 25px;
+}
+
+.business-services-img
+{
+    margin-right: 30px;
+}
+
+.business-services-img-right
+{
+    margin-left: 30px;
+}
+
+.business-services-img img
+{
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.business-services-txt h2
+{
+    width: 200px;
+    font-size: 20px;
+}
+
+.business-services-icon img
+{
+    width: 150px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -10px;
+    right: -14%;
+    z-index: 1;
+}
+
+.business-services-img-right img
+{
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.business-services-icon-right img
+{
+    width: 150px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -10px;
+    left: -14%;
+    z-index: 1;
+}
+
+/* ***************************************************************** */
+
+
+.started-image
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: -50px 0px;
+}
+
+.started-image img
+{
+    width: 300px;
+    margin-left: 120px;
+}
+
+.poke-txt 
+{
+    width: 300px;
+    background: #4FAEAA;
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    font-size: 12px;
+
+    position: relative;
+
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: 20px;
+}
+
+.poke-txt p
+{
+    width: 250px;
+    color: #fff;
+    text-align: left;
+    font-family: 'Nunito-Regular';
+    margin-bottom: 10px;
+}
+
+.poke-txt h6
+{
+    font-size: 13px;
+    text-align: right;
+    font-family: 'Nunito-Bold';
+}
+
+.poke-img img
+{
+    width: 35px;
+
+    position: absolute;
+    z-index: 1;
+    top: -7px;
+    left: -15px;
+}
+
+.td-food-img
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.td-food-img img
+{
+    width: 420px;
+}
+
+.review-img img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.loved-food-img
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loved-food-img img
+{
+    width: 400px;
+    margin-top: 40px;
+}
+
+.shipping-service img
+{
+    width: 50px;
+}
+
+.shipping-truck
+{
+    margin-bottom: 40px;
+}
+
+.shipping-rs
+{
+    margin-bottom: 20px;
+}
+
+.shipping-protection
+{
+    margin-bottom: 20px;
+}
+
+.shipping-service h5
+{
+    font-size: 15px;
+}
+
+.shipping-service p
+{
+    font-size: 10px;
+}
+
+.solution-card
+{
+    height: 360px;
+}
+
+
+/* ******************************************************************* */
+
+.brand-head-btn
+{
+    margin-top: 20px;
+}
+
+.brand-head-btn a
+{
+    font-size: 10px;
+    padding: 10px 20px;
+    margin-right: 30px;
+}
+
+.brand-head-btn a:hover
+{
+    font-size: 10px;
+    padding: 10px 20px;
+    margin-right: 30px;
+}
+
+.brand-slider-txt
+{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.brand-slider-txt h4
+{
+    color: #4FAEAA;
+    margin-bottom: 5px;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+}
+
+.brand-slider-txt p
+{
+    color: #000;
+    margin-bottom: 5px;
+    font-size: 6px;
+}
+
+.brand-slider-txt a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 6px;
+}
+
+.brand-slider-txt a:hover
+{
+    color: #4FAEAA;
+    background: #fff;
+    border: 2px solid #4FAEAA;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 6px;
+}
+
+.brand-logo
+{
+    max-width: 70px;
+    max-height: 70px;
+    background: #fff;
+    border-radius: 50%;
+    border: 2.5px solid #4FAEAA;
+    padding: 5px;
+
+    position: absolute;
+    z-index: 9;
+    top: 50px;
+    right: 30px;
+}
+
+.brand-logo img
+{
+    width: 25px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    object-fit: contain;
+}
+
+/* ****************************************************************** */
+
+.our-story
+{
+    display: none;
+}
+
+.mission-cnt-icon-img
+{
+    position: absolute;
+    z-index: 1;
+    bottom: -20px;
+    left: 20px;
+}
+
+.btn-wrap img
+{
+    width: 35px;
+}
+
+/* ***************************************************************** */
+
+	.choose-us-img
+    {
+        margin-top: 50px;
+    }
+    
+    .choose-us-img img
+    {
+        width: 400px;
+    }
+    
+    .franchise
+    {
+        position: relative;
+        margin: 40px 0px;
+    }
+    
+    .franchise-txt 
+    {
+        position: absolute;
+        z-index: 1;
+        top: 70px;
+        right: 40px;
+        margin-top: 10px;
+    }
+
+    .footer-bg
+    {
+        margin-top: -60px;
+    }
+    
+    .franchise-txt h2
+    {
+        color: #000;
+        width: 200px;
+        font-family: 'Nunito-Bold';
+        margin-bottom: 7px;
+        font-size: 15px;
+        text-align: left;
+    }
+    
+    .franchise-txt p
+    {
+        color: #000;
+        width: 230px;
+        font-size: 7px;
+        margin-bottom: 7px;
+        text-align: left;
+    }
+
+    .your-email
+    {
+        display: flex;
+    }
+    
+    .your-email
+    {
+        position: relative;
+    }
+    
+    .franchise-txt input
+    {
+        border: none;
+        padding: 5px;
+        padding-right: 5%;
+        border-bottom-left-radius: 7px;
+        border-top-left-radius: 15px;    
+    }
+
+    .franchise-txt input::placeholder
+    {
+        font-size: 10px;
+        padding-left: 5px;
+    }
+    
+    .your-email a
+    {
+        color: #fff;
+        border: 2px solid #4FAEAA;
+        background: #4FAEAA;
+        font-family: 'Nunito-Bold';
+        padding: 8px 15px;
+        font-size: 10px;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-bottom-left-radius: 7px;
+        border-top-left-radius: 25px;
+    
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        right: -20px;
+    }
+    
+    .your-email a:hover
+    {
+        color: #4FAEAA;
+        border: 2px solid #4FAEAA;
+        background: #fff;
+        font-family: 'Nunito-Bold';
+        padding: 11px 20px;
+        font-size: 10px;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-bottom-left-radius: 7px;
+        border-top-left-radius: 25px;
+    }
+
+/* ************************************************************************** */
+
+.our-menu-bg
+{
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
+.new-customer-offer-bg
+{
+    background-image: url(../images/p3\ new\ customer\ offer\ bg.png);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.new-customer-offer
+{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.new-customer-offer h2
+{
+    color: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.new-customer-offer h5
+{
+    width: 230px;
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin: 0 auto;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+.new-customer-offer p
+{
+    color: #000;
+    width: 220px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.new-customer-offer a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 7px 25px;
+    border-radius: 50px;
+    font-size: 8px;
+}
+
+.new-customer-offer a:hover
+{
+    color: #4FAEAA;
+    background: transparent;
+    border: 2px solid #4FAEAA;
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-size: 10px;
+}
+
+/* ************************************************** */
+
+.beverages-food-img-txt
+{
+    width: 100%;
+    text-align: center;
+}
+
+.beverages-food-img-txt h5
+{
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.food-five-star
+{
+    display: flex;
+    justify-content: center;
+}
+
+.food-five-star img
+{
+    width: 80px;
+    margin-bottom: 15px;
+}
+
+.bevrages-food-price
+{
+    width: 240px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.bevrages-food-price h6
+{
+    color: #000;
+    font-family: 'Nunito-bold';
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 8px;
+}
+
+.bevrages-food-price p
+{
+    color: #9F9F9F;
+    font-size: 8px;
+}
+
+
+/* ************************************************************************************ */
+
+.tfood-img-txt
+{
+    margin-top: 20px;
+}
+
+.tfood-img-txt h6
+{
+    width: 100%;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+}
+
+.tfood-img-txt p
+{
+    color: #fff;
+    width: 100%;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.tfood-img-btn a
+{
+    color: #fff;
+    background: #42928f;
+    border: 2px solid #42928f;
+    font-family: 'Nunito-Bold';
+    font-size: 13px;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+
+.tfood-img-btn a:hover
+{
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    font-family: 'Nunito-Bold';
+    font-size: 13px;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+
+/* ***************************************************************************************** */
+
+.food-before img
+{
+    width: 100%;
+    margin-top: -35px;
+}
+
+/* ************************************************************************************************** */
+
+/* ************************************************************** */
+
+.order-foods-txt
+{
+    margin-bottom: 230px;
+}
+
+.order-foods-img img
+{
+    width: 300px;
+
+    position: absolute;
+    bottom: -20px;
+    right: 150px;
+    z-index: 1;
+}
+
+.order-foods-img
+{
+    display: none;
+}
+
+/* ************************************************************************** */
+
+.core-value-slide
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+    margin-bottom: -70px;
+}
+
+.swiper-slide img
+{
+    width: 280px;
+    height: 100%;
+}
+
+.test-food h6
+{
+    font-size: 13px;
+}
+
+.test-food h2
+{
+    font-size: 25px;
+}
+
+.test-food p
+{
+    font-size: 14px;
+}
+
+.btn-wrap-about
+{
+    display: flex;
+}
+
+.btn-wrap-about img
+{
+    width: 35px;
+}
+
+/* ################# */
+
+.core-value-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt p
+{
+    font-size: 14px;
+}
+
+.core-item-img img
+{
+    width: 50px;
+}
+
+.core-item-cnt-head h6
+{
+    font-size: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-cnt-head p
+{
+    font-size: 12px;
+    line-height: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-body-content p
+{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.core-item-header::after
+{
+    font-size: 15px;
+    width: 17px;
+    height: 17px;
+}
+
+.partner-img img {
+    max-width: 100px;
+    max-height: 100px;
+    aspect-ratio: 2/2;
+}
+
+/* ******************************************************* */
+
+.who-we-txt h6
+{
+    font-size: 13px;
+}
+
+.who-we-txt h2
+{
+    font-size: 25px;
+}
+
+.who-we-txt p
+{
+    font-size: 14px;
+}
+
+.who-we-main img
+{
+    width: 350px;
+}
+
+.mission-cnt-txt h6
+{
+    font-size: 13px;
+}
+
+.mission-cnt-txt h2
+{
+    font-size: 25px;
+}
+
+.mission-cnt-txt p
+{
+    font-size: 14px;
+}
+
+.terms-item-cnt-head h5
+{
+    font-size: 15px;
+}
+
+.privacy-item-cnt-head h5
+{
+    font-size: 15px;
+}
+
+/* ****************************************************** */
+
+.contact-form h2
+{
+    font-size: 25px;
+}
+
+.form-dtl-part input,
+.form-dtl-part select
+{
+    min-height: 50px;
+}
+
+.form-dtl-part textarea
+{
+    height: 150px;
+}
+
+.form-dtl-part i {
+    top: 18px;
+}
+
+.co-dtl-txt h5
+{
+    font-size: 16px;
+}
+
+.company-dtl
+{
+    margin: 0px;
+}
+
+.privacy-insta-contact h2
+{
+    font-size: 25px;
+}
+
+.privacy-insta-icon img
+{
+    width: 10px;
+}
+
+
+/* ********************************************************************** */
+
+.our-menu-heading h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.our-menu-heading h2
+{
+    font-size: 25px;
+}
+
+.menu-content h3
+{
+    font-size: 16px;
+}
+
+.menu-card-item-name h4
+{
+    width: 100%;
+    font-size: 15px;
+    text-align: left;
+}
+
+.menu-card-item-name h5
+{
+    font-size: 15px;
+}
+
+.menu-card-item-name h5 span
+{
+    font-size: 12px;
+}
+
+.menu-card-item-dtl p
+{
+    font-size: 10px;
+}
+
+.fresh-beverages-heading
+{
+    margin-top: -60px;
+}
+
+.fresh-beverages-heading h3
+{
+    font-size: 25px;
+}
+
+.order-foods-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.order-foods-txt h2
+{
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.order-foods
+{
+    margin-bottom: -200px;
+}
+
+.footer-before-product img
+{
+    width: 100%;
+    margin-bottom: -15px;
+}
+
+.footer-content
+{
+    padding: 30px 0px;
+}
+
+.offer-product-img-beverages img 
+{
+    width: 480px;
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: 100px;
+}
+
+.offer-product-bg-beverages
+{
+    margin-bottom: 30px;
+}
+
+.offer-product-bg-ice-cream
+{
+    margin-bottom: 30px;
+}
+
+.our-menu-heading h6::after
+{
+    display: none;
+}
+
+.partner-img .partner-img-days
+{
+    max-width: 60px;
+    margin-top: 75px;
+}
+
+}
+
+/* ******************************************************************************************************************************************************************************************************************************************************************************************************** */
+
+@media screen and (max-width:480px){
+
+.nav {
+    margin: 0;
+    padding: 0;
+}
+.nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-top: 0.2rem;
+}
+.nav-btn label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+    margin-top: 10px;
+}
+.nav-btn label span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #000;
+}
+.nav-list {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    background-color: #4FAEAA;
+    height: 0;
+    transition: all 0.3s ease-in;
+    top: 60px;
+    left: 0;
+    overflow: hidden;
+    z-index: 9;
+    padding: 0px;
+}
+.nav-list li {
+    width: 100%;
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+#nav-check:checked ~ .nav-list {
+    height: calc(100vh - 50px);
+}
+
+.nav-menu.active {
+    border-bottom: 4px solid #000;
+    padding-bottom: 7px;
+    transition: none;
+}    
+
+.nav-list a{
+    color: #fff;
+}
+
+.nav-list a.active{
+    color: #000;
+}    
+
+/* ************************************************************** */
+
+.started-txt
+{
+    margin-top: 30px;
+}
+
+.started-txt h6
+{
+    font-size: 13px;
+}
+
+.started-txt h1
+{
+    width: 280px;
+    font-size: 27px;
+    line-height: 30px;
+}
+
+.started-txt p
+{
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.started-txt a
+{
+    font-size: 14px;
+    padding: 7px 15px;
+}
+
+.started-txt a:hover
+{
+    padding: 10px 20px;
+}
+
+.p1-mini-video img
+{
+    max-width: 35px;
+    max-height: 35px;
+    margin-top: 10px;
+}
+
+.p1-mini-video h6
+{
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.get-video
+{
+    margin-bottom: 15px;
+}
+
+.get-arrow
+{
+    margin-bottom: -30px;
+}
+
+.get-arrow .btn-wrap button img
+{
+    width: 40px;
+}
+
+.treditional-food
+{
+    margin-top: -30px;
+}
+
+.td-food-txt h6
+{
+    font-size: 12px;
+}
+
+.td-food-txt h2
+{
+    font-size: 25px;
+    line-height: 35px;
+    margin-bottom: 7px;
+}
+
+.td-food-txt p
+{
+    font-size: 14px;
+}
+
+.td-btn
+{
+    margin-top: 30px;
+}
+
+.td-btn a
+{
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.td-btn a:hover
+{
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.td-food-img
+{
+    margin-top: -30px;
+}
+
+.td-food-img img
+{
+    width: 280px;
+}
+
+.solution
+{
+    padding-top: 20px;
+}
+
+.solution-heading
+{
+    padding: 20px 0px;
+}
+
+.solution-heading h3
+{
+    width: 240px;
+    font-size: 20px;
+}
+
+.solution-btn
+{
+    position: absolute;
+    z-index: 1;
+    bottom: 10px;
+    left: 24%;
+    font-size: 15px;
+}
+
+.solution-card
+{
+    padding: 30px;
+}
+
+.st-img-bg img
+{
+    width: 80px;
+}
+
+.solution-card h4
+{
+    font-size: 17px;
+}
+
+.solution-card p
+{
+    font-size: 14px;
+}
+
+.solution-btn a
+{
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+/* .franchise img
+{
+    margin-top: -50px;
+} */
+
+.solution-btn a:hover
+{
+    padding: 10px 20px;
+}
+
+.solution-card
+{
+    height: 350px;
+}
+
+.brand
+{
+    margin-top: 40px;
+}
+
+.brand-title h6
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.brand-title h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+
+
+.review-people-avtar img
+{
+    max-width: 30px;
+    max-height: 30px;
+    display: flex;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.active-img
+{
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.five-star img
+{
+    width: 70px;
+}
+
+.review-txt h6
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.review-txt h2
+{
+    width: 270px;
+    font-size: 20px;
+}
+
+.review-arrow button img
+{
+    width: 40px;
+}
+
+.review-arrow
+{
+    display: flex;
+
+    position: absolute;
+    z-index: 9;
+    bottom: 5px;
+    left: 72%;
+}
+
+.loved-food-img img {
+    width: 280px;
+    margin-top: 40px;
+}
+
+.loved-food-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.loved-food-txt h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.loved-food-txt p
+{
+    font-size: 12px;
+}
+
+.loved-food-btn a
+{
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+.loved-food-btn a:hover
+{
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+.love-food-after img
+{
+    margin-bottom: -80px;
+}
+
+.partner h3
+{
+    font-size: 25px;
+}
+
+.partner-bg
+{
+    margin-top: 0px;
+    padding-top: 130px;
+    padding-bottom: 80px;
+}
+
+.shipping
+{
+    margin-top: -17px;
+    padding: 15px 0px;
+}
+
+.shipping-service img
+{
+    width: 35px;
+}
+
+.shipping-truck
+{
+    margin-bottom: 30px;
+}
+
+.shipping-service h5
+{
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+.shipping-service p
+{
+    font-size: 8px;
+}
+
+.partner-img img
+{
+    max-width: 85px;
+    max-height: 85px;
+    aspect-ratio: 2/2;
+}
+
+.partner-service h6
+{
+    font-size: 14px;
+}
+
+.partner-service h3
+{
+    font-size: 20px;
+}
+
+.footer-bg
+{
+    margin-top: -70px;
+}
+
+.footer a,p
+{
+    font-size: 15px;
+}
+
+.copyright p
+{
+    width: 100%;
+}
+
+/* ************************************************************** */
+
+.brand-head-btn
+{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.brand-head-btn a
+{
+    font-size: 10px;
+    padding: 10px 20px;
+    margin-right: 30px;
+}
+
+.brand-head-btn a:hover
+{
+    font-size: 10px;
+    padding: 10px 20px;
+    margin-right: 30px;
+}
+
+.brand-slider-txt
+{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.brand-slider-txt h4
+{
+    color: #4FAEAA;
+    margin-bottom: 5px;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+}
+
+.brand-slider-txt p
+{
+    color: #000;
+    margin-bottom: 5px;
+    font-size: 6px;
+}
+
+.brand-slider-txt a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 6px;
+}
+
+.brand-slider-txt a:hover
+{
+    color: #4FAEAA;
+    background: #fff;
+    border: 2px solid #4FAEAA;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 6px;
+}
+
+.brand-logo
+{
+    max-width: 70px;
+    max-height: 70px;
+    background: #fff;
+    border-radius: 50%;
+    border: 2.5px solid #4FAEAA;
+    padding: 5px;
+
+    position: absolute;
+    z-index: 9;
+    top: 10px;
+    right: 30px;
+}
+
+.brand-logo img
+{
+    width: 25px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    object-fit: contain;
+}
+
+/* ***************************************************************** */
+
+.our-story
+{
+    display: none;
+}
+
+.who-we-img img
+{
+    width: 400px;
+}
+
+.swiper-slide img
+{
+    width: 300px;
+    margin: 80px 0px;
+}
+
+.test-food-img-date
+{
+    color: red;
+    position: absolute;
+    z-index: 1;
+    top: 12px;
+    left: 14px;
+}
+
+.test-food-img-date h5
+{
+    font-size: 5px;
+    text-align: center;
+    margin-bottom: -4px;
+}
+
+.test-food-img-date h6
+{
+    font-size: 4px;
+    text-align: center;
+}
+
+/* ***************************************************************** */
+
+.started-image
+{
+    margin-bottom: 20px;
+    padding-bottom: 170px;
+}
+
+.started-image img
+{
+    width: 260px;
+    margin-right: -30px;
+}
+
+.poke-txt 
+{
+    width: 250px;
+    background: #4FAEAA;
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    font-size: 10px;
+    margin-left: -10px;
+
+    position: relative;
+
+    position: absolute;
+    z-index: 1;
+    bottom: 00px;
+    left: 30px;
+}
+
+.poke-txt p
+{
+    width: 220px;
+    color: #fff;
+    text-align: left;
+    font-family: 'Nunito-Regular';
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.poke-txt h6
+{
+    font-size: 14px;
+    text-align: right;
+    font-family: 'Nunito-Bold';
+}
+
+.poke-img img
+{
+    width: 25px;
+
+    position: absolute;
+    z-index: 1;
+    top: -4px;
+    left: -10px;
+}
+
+.review-img img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.review-txt p
+{
+    width: 100%;
+    color: #000;
+    font-size: 14px;
+    margin-left: 1px;
+}
+
+
+
+
+/* ***************************************************************** */
+
+.choose-us-img
+{
+    margin-top: 50px;
+}
+
+.choose-us-img img
+{
+    width: 250px;
+}
+
+
+.franchise
+{
+    position: relative;
+    margin: 40px 0px;
+}
+
+.franchise-txt 
+{
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    right: 20px;
+}
+
+.franchise-txt h2
+{
+    color: #000;
+    width: 170px;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 5px;
+    font-size: 11px;
+    text-align: left;
+}
+
+.franchise-txt p
+{
+    color: #000;
+    width: 200px;
+    font-size: 7px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.your-email
+{
+    display: flex;
+}
+
+.your-email
+{
+    position: relative;
+}
+
+.franchise-txt input
+{
+    border: none;
+    padding: 8px;
+    font-size: 7px;
+    /* padding-right: 5%; */
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 13px;
+}
+
+.franchise-txt input::placeholder
+{
+    font-size: 7px;
+    /* padding-left: 5px; */
+}
+
+.your-email a
+{
+    color: #fff;
+    border: 2px solid #4FAEAA;
+    background: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    padding: 6px 10px;
+    font-size: 8px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 13px;
+}
+
+.your-email a:hover
+{
+    color: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    background: #fff;
+    font-family: 'Nunito-Bold';
+    padding: 4.5px 10px;
+    font-size: 8px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+}
+
+/* ***************************** product ******************************** */
+
+.offer-product-txt-beverages
+{
+    text-align: left;
+
+    position: absolute;
+    z-index: 1;
+    top: 30px;
+    left: 50px;
+}
+
+/* ************************************************************************** */
+
+.new-customer-offer-bg
+{
+    background-image: url(../images/p3\ new\ customer\ offer\ bg.png);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.new-customer-offer h2
+{
+    color: #4FAEAA;
+    font-family: 'Nunito-Bold';
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+.new-customer-offer h5
+{
+    width: 200px;
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin: 0 auto;
+    font-size: 10px;
+    margin-bottom: 8px;
+}
+
+.new-customer-offer p
+{
+    color: #000;
+    width: 200px;
+    margin: 0 auto;
+    font-size: 7px;
+    margin-bottom: 10px;
+}
+
+.new-customer-offer a
+{
+    color: #fff;
+    background: #4FAEAA;
+    border: 2px solid #4FAEAA;
+    padding: 8px 25px;
+    border-radius: 50px;
+    font-size: 8px;
+}
+
+.new-customer-offer a:hover
+{
+    color: #4FAEAA;
+    background: transparent;
+    border: 2px solid #4FAEAA;
+    padding: 8px 25px;
+    border-radius: 50px;
+    font-size: 8px;
+}
+
+/* ************************************************** */
+
+.beverages-food-img-txt
+{
+    width: 100%;
+    text-align: center;
+}
+
+.beverages-food-img-txt h5
+{
+    color: #000;
+    font-family: 'Nunito-Bold';
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 8px;
+}
+
+.food-five-star
+{
+    display: flex;
+    justify-content: center;
+}
+
+.food-five-star img
+{
+    width: 70px;
+    margin-bottom: 15px;
+}
+
+.bevrages-food-price
+{
+    width: 240px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.bevrages-food-price h6
+{
+    color: #000;
+    font-family: 'Nunito-bold';
+    margin-left: 18px;
+    margin-right: 15px;
+    font-size: 6px;
+}
+
+.bevrages-food-price p
+{
+    color: #9F9F9F;
+    font-size: 6px;
+}
+
+/* ************************************************************** */
+
+.order-foods-txt
+{
+    margin-bottom: 230px;
+}
+
+.order-foods-img img
+{
+    width: 300px;
+
+    position: absolute;
+    bottom: -20px;
+    right: 80px;
+    z-index: 1;
+}
+
+
+/* ************************************************************************************ */
+
+.tfood-img-txt
+{
+    margin-top: 10px;
+}
+
+.tfood-img-txt h6
+{
+    width: 100%;
+    font-size: 19px;
+    color: #fff;
+    font-family: 'Nunito-Bold';
+    margin-bottom: 10px;
+}
+
+.tfood-img-txt p
+{
+    color: #fff;
+    width: 100%;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.tfood-img-btn a
+{
+    color: #fff;
+    background: #42928f;
+    border: 2px solid #42928f;
+    font-family: 'Nunito-Bold';
+    font-size: 14px;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+
+.tfood-img-btn a:hover
+{
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    font-family: 'Nunito-Bold';
+    font-size: 10px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+
+/* ***************************************************************************************** */
+
+.food-before img
+{
+    width: 100%;
+    margin-top: -35px;
+}
+
+/* ************************************************************************************************** */
+
+
+.our-menu-content h3
+{
+    font-size: 18px;
+}
+
+.business-services
+{
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.business-services-img
+{
+    margin-right: 30px;
+}
+
+.business-services-img-right
+{
+    margin-left: 30px;
+}
+
+.business-services-img img
+{
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.business-services-txt h2
+{
+    width: 200px;
+    font-size: 20px;
+}
+
+.business-services-icon img
+{
+    width: 130px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -5px;
+    right: -14%;
+    z-index: 1;
+}
+
+.business-services-img-right img
+{
+    width: 100%;
+    margin: 35px 0px;
+}
+
+.business-services-icon-right img
+{
+    width: 130px;
+    margin: 0;
+
+    position: absolute;
+    bottom: -5px;
+    left: -14%;
+    z-index: 1;
+}
+
+.choose-us-txt h6
+{
+    font-size: 13px;
+}
+
+.choose-us-txt h2
+{
+    font-size: 25px;
+}
+
+.choose-us-btn a
+{
+    font-size: 14px;
+}
+
+.choose-us-btn a:hover
+{
+    font-size: 14px;
+}
+
+.business-services-btn a
+{
+    font-size: 14px;
+}
+
+.business-services-btn a:hover
+{
+    font-size: 14px;
+}
+
+.order-foods-img
+{
+    display: none;
+}
+
+/* ************************************************************************** */
+
+.core-value-slide
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+    margin-bottom: -70px;
+}
+
+.swiper-slide img
+{
+    width: 280px;
+    height: 100%;
+}
+
+.test-food h6
+{
+    font-size: 14px;
+}
+
+.test-food h2
+{
+    font-size: 25px;
+}
+
+.test-food p
+{
+    font-size: 14px;
+}
+
+.btn-wrap-about
+{
+    display: flex;
+}
+
+.btn-wrap-about img
+{
+    width: 30px;
+}
+
+/* ################# */
+
+.core-value-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt h2
+{
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+
+.core-value-txt p
+{
+    font-size: 14px;
+}
+
+.core-item-img img
+{
+    width: 50px;
+}
+
+.core-item-cnt-head h6
+{
+    font-size: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-cnt-head p
+{
+    font-size: 11px;
+    line-height: 15px;
+    margin-bottom: 7px;
+}
+
+.core-item-body-content p
+{
+    font-size: 11px;
+    line-height: 18px;
+}
+
+.core-item-header::after
+{
+    font-size: 15px;
+    width: 17px;
+    height: 17px;
+}
+
+/* ******************************************************* */
+
+.who-we-txt h6
+{
+    font-size: 13px;
+}
+
+.who-we-txt h2
+{
+    font-size: 25px;
+}
+
+.who-we-txt p
+{
+    font-size: 14px;
+}
+
+.who-we-main img
+{
+    width: 350px;
+}
+
+.mission-cnt-txt h6
+{
+    font-size: 13px;
+}
+
+.mission-cnt-txt h2
+{
+    font-size: 25px;
+}
+
+.mission-cnt-txt p
+{
+    font-size: 14px;
+}
+
+.terms-item-cnt-head h5
+{
+    font-size: 15px;
+}
+
+.privacy-item-cnt-head h5
+{
+    font-size: 15px;
+}
+
+/* ****************************************************** */
+
+.contact-form h2
+{
+    font-size: 25px;
+}
+
+.form-dtl-part input,
+.form-dtl-part select
+{
+    min-height: 50px;
+}
+
+.form-dtl-part textarea
+{
+    height: 150px;
+}
+
+.form-dtl-part i {
+    top: 18px;
+}
+
+.co-dtl-txt h5
+{
+    font-size: 16px;
+}
+
+.company-dtl
+{
+    margin: 0px;
+}
+
+.privacy-insta-contact h2
+{
+    font-size: 25px;
+}
+
+.privacy-insta-icon img
+{
+    width: 10px;
+}
+
+/* ********************************************************************************** */
+
+.offer-product-img-beverages img
+{
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    bottom: 0px;
+    left: 40px;
+}
+
+/* ********************************************************************** */
+
+.our-menu-heading h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.our-menu-heading h2
+{
+    font-size: 25px;
+}
+
+.menu-content h3
+{
+    font-size: 16px;
+}
+
+.menu-card-item-name h4
+{
+    width: 100%;
+    font-size: 11px;
+    text-align: left;
+}
+
+.menu-card-item-name h5
+{
+    font-size: 14px;
+}
+
+.menu-card-item-name h5 span
+{
+    font-size: 12px;
+}
+
+.menu-card-item-dtl p
+{
+    font-size: 10px;
+}
+
+.fresh-beverages-heading
+{
+    margin-top: -60px;
+}
+
+.fresh-beverages-heading h3
+{
+    font-size: 25px;
+}
+
+.order-foods-txt h6
+{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.order-foods-txt h2
+{
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.order-foods
+{
+    margin-bottom: -200px;
+}
+
+.footer-before-product img
+{
+    width: 100%;
+    margin-bottom: -15px;
+}
+
+.footer-content
+{
+    padding: 30px 0px;
+}
+
+.offer-product-img-beverages img 
+{
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    bottom: 20px;
+    left: 50px;
+}
+
+.offer-product-bg-beverages
+{
+    margin-bottom: 30px;
+}
+
+.offer-product-bg-ice-cream
+{
+    margin-bottom: 30px;
+}
+
+.mission-content
+{
+    padding: 25px;
+    padding-bottom: 35px;
+}
+
+.mission-content .col-lg-6
+{
+    padding: 0;
+}
+
+.test-food-img img 
+{
+    padding: 0px;
+}
+
+.our-menu-heading h6::after
+{
+    display: none;
+}
+
+.partner-img .partner-img-days
+{
+    max-width: 40px;
+    margin-top: 75px;
+}
+
+.footer-before-home img
+{
+    width: 100%;
+    margin-top: -140px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
