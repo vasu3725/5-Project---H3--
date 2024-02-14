@@ -1389,7 +1389,6 @@
 .brand
 {
     margin-top: 40px;
-    margin-bottom: -60px;
 }
 
 .brand-title h6
@@ -1577,15 +1576,15 @@
     width: 300px;
     font-family: 'Nunito-Bold';
     margin-bottom: 10px;
-    font-size: 26px;
+    font-size: 20px;
     text-align: left;
 }
 
 .franchise-txt p
 {
     color: #000;
-    width: 430px;
-    font-size: 15px;
+    width: 350px;
+    font-size: 12px;
     margin-bottom: 10px;
     text-align: left;
 }
@@ -1603,15 +1602,26 @@
 .franchise-txt input
 {
     border: none;
-    padding: 15px;
+    padding: 10px;
     padding-right: 40%;
     border-bottom-left-radius: 7px;
     border-top-left-radius: 15px;
+    font-size: 14px;
+}
+
+.franchise-txt input::placeholder
+{
+    font-size: 14px;
 }
 
 .franchise-txt-align
 {
     margin-top: 25px;
+}
+
+.franchise-txt-align
+{
+    margin-top: 0px;
 }
 
 .your-email a
@@ -1620,8 +1630,8 @@
     border: 2px solid #4FAEAA;
     background: #4FAEAA;
     font-family: 'Nunito-Bold';
-    padding: 15px 38px;
-    font-size: 15px;
+    padding: 9px 15px;
+    font-size: 14px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
     border-bottom-left-radius: 7px;
@@ -1639,7 +1649,7 @@
     border: 2px solid #4FAEAA;
     background: #fff;
     font-family: 'Nunito-Bold';
-    padding: 18px 38px;
+    padding: 9px 15px;
     font-size: 14px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
@@ -2448,7 +2458,7 @@
 .footer-before-about img
 {
     width: 100%;
-    margin-top: -100px;
+    margin-top: -40px;
 }
 
 .footer-before-service img
@@ -2477,6 +2487,12 @@
     top: 80px;
     right: -8px;
     z-index: 1;
+}
+
+.footer-before-product img
+{
+    width: 100%;
+    margin-bottom: -17px;
 }
 
 }
@@ -2865,9 +2881,14 @@
 {
     position: absolute;
     z-index: 1;
-    top: 95px;
-    right: 40px;
+    top: 62px;
+    right: 10px;
     margin-top: 10px;
+}
+
+.franchise-txt-service
+{
+    margin-top: 0px;
 }
 
 .footer-bg
@@ -2878,18 +2899,18 @@
 .franchise-txt h2
 {
     color: #000;
-    width: 300px;
+    width: 200px;
     font-family: 'Nunito-Bold';
-    margin-bottom: 7px;
-    font-size: 20px;
+    margin-bottom: 5px;
+    font-size: 16px;
     text-align: left;
 }
 
 .franchise-txt p
 {
     color: #000;
-    width: 330px;
-    font-size: 12px;
+    width: 280px;
+    font-size: 10px;
     margin-bottom: 7px;
     text-align: left;
 }
@@ -2912,15 +2933,15 @@
 .franchise-txt input
 {
     border: none;
-    padding: 10px;
-    padding-right: 5%;
+    padding: 7px;
+    padding-right: 2%;
     border-bottom-left-radius: 7px;
     border-top-left-radius: 15px;    
 }
 
 .franchise-txt input::placeholder
 {
-    font-size: 13px;
+    font-size: 11px;
     padding-left: 5px;
 }
 
@@ -2930,8 +2951,8 @@
     border: 2px solid #4FAEAA;
     background: #4FAEAA;
     font-family: 'Nunito-Bold';
-    padding: 11px 20px;
-    font-size: 13px;
+    padding: 10px 15px;
+    font-size: 10px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
     border-bottom-left-radius: 7px;
@@ -2940,7 +2961,7 @@
     position: absolute;
     z-index: 1;
     top: 0;
-    right: -20px;
+    right: 5px;
 }
 
 .your-email a:hover
@@ -2963,12 +2984,17 @@
     height: 100%;
     z-index: 1;
     position: relative;
-    margin-bottom: -120px;
+    margin-bottom: -50px;
+}
+
+.food-after-home img
+{
+    margin-top: 60px;
 }
 
 .footer-before-home img {
     width: 100%;
-    margin-top: -155px;
+    margin-top: -152px;
 }
 
 .partner-bg
@@ -3032,14 +3058,14 @@
     color: #4FAEAA;
     margin-bottom: 5px;
     font-family: 'Nunito-Bold';
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .brand-slider-txt p
 {
     color: #000;
     margin-bottom: 10px;
-    font-size: 10px;
+    font-size: 8px;
 }
 
 .brand-slider-txt a
@@ -3075,6 +3101,7 @@
     z-index: 9;
     top: 70px;
     right: 50px;
+    display: none;
 }
 
 .brand-logo img
@@ -3623,7 +3650,7 @@
 .footer-before-product img
 {
     width: 100%;
-    margin-bottom: -15px;
+    margin-bottom: 48px;
 }
 
 .footer-content
@@ -3897,7 +3924,7 @@
 
 .love-food-after img
 {
-    margin-bottom: -117px;
+    margin-bottom: -50px;
 }
 
 .partner-bg
@@ -4148,7 +4175,7 @@
 
 .brand-slider-txt
 {
-    padding: 10px;
+    padding: 20px;
     border-radius: 5px;
 }
 
@@ -4157,14 +4184,14 @@
     color: #4FAEAA;
     margin-bottom: 5px;
     font-family: 'Nunito-Bold';
-    font-size: 10px;
+    /* font-size: 16px; */
 }
 
 .brand-slider-txt p
 {
     color: #000;
     margin-bottom: 5px;
-    font-size: 6px;
+    /* font-size: 14px; */
 }
 
 .brand-slider-txt a
@@ -4174,7 +4201,7 @@
     border: 2px solid #4FAEAA;
     padding: 5px 10px;
     border-radius: 50px;
-    font-size: 6px;
+    /* font-size: 6px; */
 }
 
 .brand-slider-txt a:hover
@@ -4184,7 +4211,7 @@
     border: 2px solid #4FAEAA;
     padding: 5px 10px;
     border-radius: 50px;
-    font-size: 6px;
+    /* font-size: 6px; */
 }
 
 .brand-logo
@@ -4198,14 +4225,15 @@
 
     position: absolute;
     z-index: 9;
-    top: 50px;
+    top: 115px;
     right: 30px;
 }
 
 .brand-logo img
 {
-    width: 25px;
-    height: 25px;
+    width: 35px;
+    height: 35px;
+    display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -4248,6 +4276,7 @@
     {
         position: relative;
         margin: 40px 0px;
+        margin-top: -20px;
     }
     
     .franchise-txt 
@@ -4255,8 +4284,8 @@
         position: absolute;
         z-index: 1;
         top: 70px;
-        right: 40px;
-        margin-top: -20px;
+        right: 30px;
+        margin-top: -15px;
     }
 
     .offer-product-txt-beverages {
@@ -4278,14 +4307,14 @@
         width: 200px;
         font-family: 'Nunito-Bold';
         margin-bottom: 7px;
-        font-size: 15px;
+        font-size: 13px;
         text-align: left;
     }
     
     .franchise-txt p
     {
         color: #000;
-        width: 230px;
+        width: 200px;
         font-size: 7px;
         margin-bottom: 7px;
         text-align: left;
@@ -4304,15 +4333,15 @@
     .franchise-txt input
     {
         border: none;
-        padding: 5px;
-        padding-right: 5%;
+        padding: 3px;
+        padding-right: 2%;
         border-bottom-left-radius: 7px;
         border-top-left-radius: 15px;    
     }
 
     .franchise-txt input::placeholder
     {
-        font-size: 10px;
+        font-size: 8px;
         padding-left: 5px;
     }
     
@@ -4322,8 +4351,8 @@
         border: 2px solid #4FAEAA;
         background: #4FAEAA;
         font-family: 'Nunito-Bold';
-        padding: 8px 15px;
-        font-size: 10px;
+        padding: 7px 10px;
+        font-size: 9px;
         border-top-right-radius: 30px;
         border-bottom-right-radius: 30px;
         border-bottom-left-radius: 7px;
@@ -4332,7 +4361,7 @@
         position: absolute;
         z-index: 1;
         top: 0;
-        right: -20px;
+        right: -15px;
     }
     
     .your-email a:hover
@@ -4341,8 +4370,8 @@
         border: 2px solid #4FAEAA;
         background: #fff;
         font-family: 'Nunito-Bold';
-        padding: 11px 20px;
-        font-size: 10px;
+        padding: 7px 10px;
+        font-size: 9px;
         border-top-right-radius: 30px;
         border-bottom-right-radius: 30px;
         border-bottom-left-radius: 7px;
@@ -4810,7 +4839,7 @@
 .footer-before-product img
 {
     width: 100%;
-    margin-bottom: -15px;
+    margin-bottom: 53px;
 }
 
 .footer-content
@@ -5234,7 +5263,7 @@
 
 .love-food-after img
 {
-    margin-bottom: -80px;
+    margin-bottom: -30px;
 }
 
 .partner h3
@@ -5382,7 +5411,7 @@
 
     position: absolute;
     z-index: 9;
-    top: 10px;
+    top: 55px;
     right: 30px;
 }
 
@@ -6235,10 +6264,29 @@
 .footer-before-home img
 {
     width: 100%;
-    margin-top: -140px;
+    margin-top: -156px;
 }
 
+.franchise img
+{
+    display: none;
+}
 
+.franchise-txt
+{
+    display: none;
+}
+
+.footer-before-about img 
+{
+    width: 100%;
+    margin-top: -123px;
+}
+
+.dtl-btn
+{
+    margin-bottom: 30px;
+}
 
 }
 
