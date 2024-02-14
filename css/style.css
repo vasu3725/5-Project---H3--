@@ -1392,6 +1392,10 @@ body {
     position: absolute;
     z-index: 9;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 100%;
 }
 
 .shipping-service
@@ -1493,12 +1497,18 @@ body {
     display: flex;
     justify-content: center;
     object-fit: contain;
+    margin-top: 20px;
+}
+
+.partner-img-days
+{
+    margin-top: -20px;
 }
 
 .footer-before-home img
 {
     width: 100%;
-    margin-top: -75px;
+    margin-top: -45px;
 }
 
 /* ************************************************************************* */
@@ -2850,7 +2860,7 @@ video::-webkit-media-controls
     right: 10px;
 }
 
-.footer-before-privacy
+.footer-before-privacy img
 {
     width: 100%;
     margin-top: -30px;

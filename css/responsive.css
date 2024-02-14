@@ -35,6 +35,7 @@
 
 .franchise-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 500px;
     font-size: 15px;
@@ -130,6 +131,7 @@
 
 .new-customer-offer p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 390px;
     margin: 0 auto;
@@ -157,6 +159,7 @@
 
 .core-item-body-content p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
     line-height: 18px;
 }
@@ -265,6 +268,7 @@
 
 .poke-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 280px;
     color: #fff;
     text-align: left;
@@ -315,12 +319,14 @@
 
 .review-img img
 {
+    margin-top: 20px;
     width: 510px;
     height: 100%;
 }
 
 .review-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 470px;
     color: #000;
     font-size: 10px;
@@ -397,6 +403,7 @@
 }
 .franchise-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 450px;
     font-size: 15px;
@@ -440,6 +447,7 @@
 
 .test-food p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
 }
 
@@ -473,6 +481,7 @@
 
 .core-item-body-content p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
     line-height: 18px;
 }
@@ -506,6 +515,7 @@
 
 .started-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 420px;
     margin-bottom: 40px;
     font-size: 14px;
@@ -560,6 +570,7 @@
 
 .poke-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 280px;
     color: #fff;
     text-align: left;
@@ -593,12 +604,14 @@
 
 .review-img img
 {
+    margin-top: 20px;
     width: 495px;
     height: 100%;
 }
 
 .review-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 430px;
     color: #000;
     font-size: 10px;
@@ -636,6 +649,7 @@
 
 .footer p
 {
+    font-family: 'Nunito-Regular';
     font-size: 15px;
 }
 
@@ -804,6 +818,7 @@
 
 .franchise-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 450px;
     font-size: 15px;
@@ -858,6 +873,7 @@
 
 .new-customer-offer p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 390px;
     margin: 0 auto;
@@ -901,6 +917,7 @@
 
 .tfood-img-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #fff;
     width: 220px;
     font-size: 8px;
@@ -982,6 +999,7 @@
 
 .test-food p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
 }
 
@@ -1028,6 +1046,7 @@
 
 .core-value-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -1044,6 +1063,7 @@
 
 .core-item-cnt-head p
 {
+    font-family: 'Nunito-Regular';
     font-size: 10px;
     line-height: 15px;
     margin-bottom: 7px;
@@ -1051,6 +1071,7 @@
 
 .core-item-body-content p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
     line-height: 18px;
 }
@@ -1218,6 +1239,7 @@
 
 .review-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 100%;
     font-size: 14px;
 }
@@ -1231,6 +1253,7 @@
 
 .started-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 300px;
     font-size: 13px;
 }
@@ -1294,6 +1317,7 @@
 
 .poke-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 220px;
     color: #fff;
     text-align: left;
@@ -1364,6 +1388,7 @@
 
 .solution-card p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -1439,6 +1464,7 @@
 
 .review-img img
 {
+    margin-top: 20px;
     width: 100%;
     height: 100%;
 }
@@ -1477,6 +1503,7 @@
 
 .loved-food-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -1538,11 +1565,13 @@
 
 .shipping-service p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
 }
 
 .footer a,p
 {
+    font-family: 'Nunito-Regular';
     font-size: 15px;
 }
 
@@ -1582,6 +1611,7 @@
 
 .franchise-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 350px;
     font-size: 12px;
@@ -2015,6 +2045,7 @@
 
 .new-customer-offer p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 350px;
     margin: 0 auto;
@@ -2088,6 +2119,7 @@
 
 .bevrages-food-price p
 {
+    font-family: 'Nunito-Regular';
     color: #9F9F9F;
     font-size: 13px;
 }
@@ -2110,6 +2142,7 @@
 
 .tfood-img-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #fff;
     width: 180px;
     font-size: 8px;
@@ -2209,6 +2242,7 @@
 
 .test-food p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
 }
 
@@ -2255,6 +2289,7 @@
 
 .core-value-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -2271,6 +2306,7 @@
 
 .core-item-cnt-head p
 {
+    font-family: 'Nunito-Regular';
     font-size: 13px;
     line-height: 15px;
     margin-bottom: 7px;
@@ -2278,6 +2314,7 @@
 
 .core-item-body-content p
 {
+    font-family: 'Nunito-Regular';
     font-size: 13px;
     line-height: 18px;
 }
@@ -2303,6 +2340,7 @@
 
 .who-we-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -2323,6 +2361,7 @@
 
 .mission-cnt-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -2426,6 +2465,7 @@
 
 .bevrages-food-price p
 {
+    font-family: 'Nunito-Regular';
     color: #9F9F9F;
     font-size: 13px;
 }
@@ -2572,11 +2612,13 @@
 
 .loved-food-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
 .review-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 100%;
     font-size: 14px;
 }
@@ -2590,6 +2632,7 @@
 
 .started-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 100%;
 }
 
@@ -2742,6 +2785,7 @@
 
 .review-img img
 {
+    margin-top: 20px;
     width: 100%;
     height: 100%;
 }
@@ -2775,6 +2819,7 @@
 
 .loved-food-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
 }
 
@@ -2830,11 +2875,13 @@
 
 .shipping-service p
 {
+    font-family: 'Nunito-Regular';
     font-size: 11px;
 }
 
 .footer a,p
 {
+    font-family: 'Nunito-Regular';
     font-size: 15px;
 }
 
@@ -2908,6 +2955,7 @@
 
 .franchise-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 280px;
     font-size: 10px;
@@ -3063,6 +3111,7 @@
 
 .brand-slider-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     margin-bottom: 10px;
     font-size: 8px;
@@ -3251,6 +3300,7 @@
 
 .new-customer-offer p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 250px;
     margin: 0 auto;
@@ -3324,6 +3374,7 @@
 
 .bevrages-food-price p
 {
+    font-family: 'Nunito-Regular';
     color: #9F9F9F;
     font-size: 10px;
 }
@@ -3346,6 +3397,7 @@
 
 .tfood-img-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #fff;
     width: 100%;
     font-size: 8px;
@@ -3416,6 +3468,7 @@
 
 .test-food p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -3462,6 +3515,7 @@
 
 .core-value-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 11px;
 }
 
@@ -3478,6 +3532,7 @@
 
 .core-item-cnt-head p
 {
+    font-family: 'Nunito-Regular';
     font-size: 13px;
     line-height: 15px;
     margin-bottom: 7px;
@@ -3485,6 +3540,7 @@
 
 .core-item-body-content p
 {
+    font-family: 'Nunito-Regular';
     font-size: 13px;
     line-height: 18px;
 }
@@ -3510,6 +3566,7 @@
 
 .who-we-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -3530,6 +3587,7 @@
 
 .mission-cnt-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -3617,6 +3675,7 @@
 
 .menu-card-item-dtl p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
 }
 
@@ -3644,6 +3703,7 @@
 }
 .order-foods-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
 }
 
@@ -3679,6 +3739,7 @@
 
 .solution-card p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -3692,6 +3753,37 @@
 {
     width: 100%;
     margin-top: -100px;
+}
+
+.footer-before-terms img {
+    width: 100%;
+    margin-top: -103px;
+}
+
+.footer-before-privacy img {
+    width: 100%;
+    margin-top: -103px;
+}
+
+.about-banner h2,
+.product-banner h2,
+.contact-banner h2,
+.privacy-banner h2,
+.terms-banner h2,
+.service-banner h2
+{
+    font-size: 30px;
+}
+
+.about-banner p
+.product-banner p,
+.contact-banner p,
+.privacy-banner p,
+.terms-banner p,
+.service-banner p
+{
+    font-family: 'Nunito-Regular';
+    font-size: 15px;
 }
 
 }
@@ -3766,6 +3858,7 @@
 
 .review-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     font-size: 14px;
     margin-left: 1px;
@@ -3902,6 +3995,7 @@
 
 .loved-food-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -3933,6 +4027,11 @@
     padding-top: 125px;
 }
 
+.partner
+{
+    padding-top: 40px;
+}
+
 .footer-before-home img {
     width: 100%;
     margin-top: -155px;
@@ -3961,11 +4060,13 @@
 
 .shipping-service p
 {
+    font-family: 'Nunito-Regular';
     font-size: 8px;
 }
 
 .footer a,p
 {
+    font-family: 'Nunito-Regular';
     font-size: 15px;
 }
 
@@ -4061,6 +4162,7 @@
 
 .poke-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 250px;
     color: #fff;
     text-align: left;
@@ -4099,6 +4201,7 @@
 
 .review-img img
 {
+    margin-top: 20px;
     width: 100%;
     height: 100%;
 }
@@ -4143,6 +4246,7 @@
 
 .shipping-service p
 {
+    font-family: 'Nunito-Regular';
     font-size: 10px;
 }
 
@@ -4189,6 +4293,7 @@
 
 .brand-slider-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     margin-bottom: 5px;
     /* font-size: 14px; */
@@ -4423,6 +4528,7 @@
 
 .new-customer-offer p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 220px;
     margin: 0 auto;
@@ -4497,6 +4603,7 @@
 
 .bevrages-food-price p
 {
+    font-family: 'Nunito-Regular';
     color: #9F9F9F;
     font-size: 8px;
 }
@@ -4520,6 +4627,7 @@
 
 .tfood-img-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #fff;
     width: 100%;
     font-size: 14px;
@@ -4609,6 +4717,7 @@
 
 .test-food p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -4638,6 +4747,7 @@
 
 .core-value-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -4654,6 +4764,7 @@
 
 .core-item-cnt-head p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
     line-height: 15px;
     margin-bottom: 7px;
@@ -4661,6 +4772,7 @@
 
 .core-item-body-content p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
     line-height: 18px;
 }
@@ -4692,6 +4804,7 @@
 
 .who-we-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -4712,6 +4825,7 @@
 
 .mission-cnt-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -4806,6 +4920,7 @@
 
 .menu-card-item-dtl p
 {
+    font-family: 'Nunito-Regular';
     font-size: 10px;
 }
 
@@ -4911,6 +5026,53 @@
     z-index: 1;
 }
 
+.footer-before-terms img {
+    width: 100%;
+    margin-top: -105px;
+}
+
+.footer-before-privacy img {
+    width: 100%;
+    margin-top: -105px;
+}
+
+.partner-img .partner-img-days
+{
+    max-width: 50px;
+    margin-top: 50px;
+}
+
+.partner-title-arrow
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.partner-arrow
+{
+    margin-left: -10px;
+}
+
+.about-banner h2,
+.product-banner h2,
+.contact-banner h2,
+.privacy-banner h2,
+.terms-banner h2,
+.service-banner h2
+{
+    font-size: 28px;
+}
+
+.about-banner p
+.product-banner p,
+.contact-banner p,
+.privacy-banner p,
+.terms-banner p,
+.service-banner p
+{
+    font-family: 'Nunito-Regular';
+    font-size: 14px;
+}
 
 }
 
@@ -5002,6 +5164,7 @@
 
 .started-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
     margin-bottom: 20px;
 }
@@ -5064,6 +5227,7 @@
 
 .td-food-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -5136,6 +5300,7 @@
 
 .solution-card p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -5246,6 +5411,7 @@
 
 .loved-food-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 12px;
 }
 
@@ -5302,6 +5468,7 @@
 
 .shipping-service p
 {
+    font-family: 'Nunito-Regular';
     font-size: 8px;
 }
 
@@ -5329,11 +5496,13 @@
 
 .footer a,p
 {
+    font-family: 'Nunito-Regular';
     font-size: 15px;
 }
 
 .copyright p
 {
+    font-family: 'Nunito-Regular';
     width: 100%;
 }
 
@@ -5375,6 +5544,7 @@
 
 .brand-slider-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     margin-bottom: 5px;
     font-size: 6px;
@@ -5499,6 +5669,7 @@
 
 .poke-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 220px;
     color: #fff;
     text-align: left;
@@ -5526,12 +5697,14 @@
 
 .review-img img
 {
+    margin-top: 20px;
     width: 100%;
     height: 100%;
 }
 
 .review-txt p
 {
+    font-family: 'Nunito-Regular';
     width: 100%;
     color: #000;
     font-size: 14px;
@@ -5580,6 +5753,7 @@
 
 .franchise-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 200px;
     font-size: 7px;
@@ -5691,6 +5865,7 @@
 
 .new-customer-offer p
 {
+    font-family: 'Nunito-Regular';
     color: #000;
     width: 200px;
     margin: 0 auto;
@@ -5765,6 +5940,7 @@
 
 .bevrages-food-price p
 {
+    font-family: 'Nunito-Regular';
     color: #9F9F9F;
     font-size: 6px;
 }
@@ -5805,6 +5981,7 @@
 
 .tfood-img-txt p
 {
+    font-family: 'Nunito-Regular';
     color: #fff;
     width: 100%;
     font-size: 14px;
@@ -5969,6 +6146,7 @@
 
 .test-food p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -5998,6 +6176,7 @@
 
 .core-value-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -6014,6 +6193,7 @@
 
 .core-item-cnt-head p
 {
+    font-family: 'Nunito-Regular';
     font-size: 11px;
     line-height: 15px;
     margin-bottom: 7px;
@@ -6021,6 +6201,7 @@
 
 .core-item-body-content p
 {
+    font-family: 'Nunito-Regular';
     font-size: 11px;
     line-height: 18px;
 }
@@ -6046,6 +6227,7 @@
 
 .who-we-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -6071,6 +6253,7 @@
 
 .mission-cnt-txt p
 {
+    font-family: 'Nunito-Regular';
     font-size: 14px;
 }
 
@@ -6174,6 +6357,7 @@
 
 .menu-card-item-dtl p
 {
+    font-family: 'Nunito-Regular';
     font-size: 10px;
 }
 
@@ -6255,12 +6439,6 @@
     display: none;
 }
 
-.partner-img .partner-img-days
-{
-    max-width: 40px;
-    margin-top: 75px;
-}
-
 .footer-before-home img
 {
     width: 100%;
@@ -6286,6 +6464,78 @@
 .dtl-btn
 {
     margin-bottom: 30px;
+}
+
+.footer-before-terms img 
+{
+    width: 100%;
+    margin-top: -118px;
+}
+
+.footer-before-privacy img 
+{
+    width: 100%;
+    margin-top: -120px;
+}
+
+.privacy-insta h2
+{
+    font-size: 25px;
+}
+
+.partner-img .partner-img-days
+{
+    max-width: 40px;
+    margin-top: 45px;
+}
+
+.partner-title-arrow
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.partner-arrow
+{
+    margin-left: -10px;
+}
+
+.about-banner h2,
+.product-banner h2,
+.contact-banner h2,
+.privacy-banner h2,
+.terms-banner h2,
+.service-banner h2
+{
+    font-size: 25px;
+}
+
+.about-banner p
+.product-banner p,
+.contact-banner p,
+.privacy-banner p,
+.terms-banner p,
+.service-banner p
+{
+    font-family: 'Nunito-Regular';
+    font-size: 12px;
+}
+
+.service-provide-bg
+{
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.service-logo img
+{
+    width: 70px;
+}
+
+.service-provide p
+{
+    font-family: 'Nunito-Regular';
+    width: 100%;
 }
 
 }
