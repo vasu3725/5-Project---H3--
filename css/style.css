@@ -1988,13 +1988,14 @@ video::-webkit-media-controls
     color: #4FAEAA;
     margin-bottom: 0px;
     font-family: 'Nunito-Bold';
+    font-size: 22px;
 }
 
 .core-item-cnt-head p
 {
     color: #000;
     font-family: 'Nunito-Light';
-    font-size: 11.5px;
+    font-size: 15px;
 }
 
 .core-item-header::after 
@@ -2038,6 +2039,13 @@ video::-webkit-media-controls
     line-height: 1.5rem;
     border-top: 1px solid;
     border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
+}
+
+.core-item-body-content p
+{
+    font-size: 13px;
+    font-family: 'Nunito-Regular';
+    line-height: 20px;
 }
 
 .core-value-img
