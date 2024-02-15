@@ -2340,6 +2340,7 @@
 
 .who-we-txt p
 {
+    margin-bottom: 10px;
     font-family: 'Nunito-Regular';
     font-size: 14px;
 }
@@ -3042,13 +3043,13 @@
 
 .footer-before-home img {
     width: 100%;
-    margin-top: -152px;
+    margin-top: -180px;
 }
 
 .partner-bg
 {
     margin-top: 0px;
-    padding-top: 110px;
+    padding-top: 250px;
 }
 
 
@@ -3566,6 +3567,7 @@
 
 .who-we-txt p
 {
+    margin-bottom: 10px;
     font-family: 'Nunito-Regular';
     font-size: 14px;
 }
@@ -3785,6 +3787,23 @@
     font-family: 'Nunito-Regular';
     font-size: 15px;
 }
+
+.shipping-service
+{
+    width: 50%;
+    margin: 13px 0px;
+}
+
+.shipping-container
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* .partner-img img
+{
+    margin-top: 50px;
+} */
 
 }
 
@@ -4024,7 +4043,7 @@
 .partner-bg
 {
     margin-top: 0px;
-    padding-top: 125px;
+    padding-top: 205px;
 }
 
 .partner
@@ -4034,7 +4053,7 @@
 
 .footer-before-home img {
     width: 100%;
-    margin-top: -155px;
+    margin-top: -185px;
 }
 
 .shipping
@@ -4804,6 +4823,7 @@
 
 .who-we-txt p
 {
+    margin-bottom: 10px;
     font-family: 'Nunito-Regular';
     font-size: 14px;
 }
@@ -4986,12 +5006,6 @@
     display: none;
 }
 
-.partner-img .partner-img-days
-{
-    max-width: 60px;
-    margin-top: 75px;
-}
-
 .footer-before-about img
 {
     width: 100%;
@@ -5072,6 +5086,18 @@
 {
     font-family: 'Nunito-Regular';
     font-size: 14px;
+}
+
+.shipping-service
+{
+    width: 50%;
+    margin: 7px 0px;
+}
+
+.shipping-container
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 }
@@ -5229,6 +5255,7 @@
 {
     font-family: 'Nunito-Regular';
     font-size: 14px;
+    margin-bottom: 10px;
 }
 
 .td-btn
@@ -5440,7 +5467,7 @@
 .partner-bg
 {
     margin-top: 0px;
-    padding-top: 130px;
+    padding-top: 165px;
     padding-bottom: 80px;
 }
 
@@ -6225,8 +6252,14 @@
     font-size: 25px;
 }
 
+.who-we-bg 
+{
+    padding-top: 30px;
+}
+
 .who-we-txt p
 {
+    margin-bottom: 10px;
     font-family: 'Nunito-Regular';
     font-size: 14px;
 }
@@ -6442,7 +6475,7 @@
 .footer-before-home img
 {
     width: 100%;
-    margin-top: -156px;
+    margin-top: -165px;
 }
 
 .franchise img
@@ -6486,7 +6519,7 @@
 .partner-img .partner-img-days
 {
     max-width: 40px;
-    margin-top: 45px;
+    margin-top: 50px;
 }
 
 .partner-title-arrow
@@ -6536,6 +6569,42 @@
 {
     font-family: 'Nunito-Regular';
     width: 100%;
+}
+
+.shipping-service
+{
+    width: 50%;
+    margin: 7px 0px;
+}
+
+.shipping-container
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mission-tab button
+{
+    width: 100px;
+    height: 90px;
+}
+
+.mission-tab
+{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.mission-content
+{
+    display: flex;
+    margin: 0px;
+}
+
+.mission-cnt-icon img
+{
+    display: none;
 }
 
 }
